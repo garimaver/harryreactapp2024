@@ -185,19 +185,7 @@ export class News extends Component {
             "publishedAt": "2024-06-02T22:27:00Z",
             "content": "Waste Management is nearing a deal to buy medical-waste-disposal company StericycleSRCL4.54%increase; green up pointing triangle\r\nfor roughly $7 billion including debt. \r\nThe acquisition of Bannockbu… [+299 chars]"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "OilPrice.com"
-            },
-            "author": "Irina Slav",
-            "title": "BHP-Anglo Debacle Shines Spotlight on Copper Scarcity - OilPrice.com",
-            "description": "There are growing concerns about copper scarcity, rising prices, and supply challenges, with AI and data centers emerging as new sources of demand.",
-            "url": "https://oilprice.com/Metals/Commodities/BHP-Anglo-Debacle-Shines-Spotlight-on-Copper-Scarcity.html",
-            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-05-31_zmahieodww.jpg",
-            "publishedAt": "2024-06-02T22:00:00Z",
-            "content": "Soaring demand for copper in…\r\nA recent Reuters report quoted market analysts…\r\nCommodity prices have reached their…\r\nBy Irina Slav - Jun 02, 2024, 5:00 PM CDT\r\nThis week saw BHPs last attempt to acq… [+4912 chars]"
-        },
+  
         {
             "source": {
                 "id": "fortune",
@@ -277,15 +265,12 @@ export class News extends Component {
       <div  className='container my-3'>
         <h2>News - Top Headlines</h2>
         <div className='row'>
-        <div className='col-md-4'>
-        <NewsItem title="myTitle" description="mydesc" imageUrl="https://s.yimg.com/ny/api/res/1.2/d3Pn.FGoIVMYnyg5dpiYUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/04f2d049bbb158617b3133167955b45c"/>
-        </div>
-        <div className='col-md-4'>
-        <NewsItem title="myTitle" description="mydesc" imageUrl="https://s.yimg.com/ny/api/res/1.2/d3Pn.FGoIVMYnyg5dpiYUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/04f2d049bbb158617b3133167955b45c"/>
-        </div>
-        <div className='col-md-4'>
-        <NewsItem title="myTitle" description="mydesc" imageUrl="https://s.yimg.com/ny/api/res/1.2/d3Pn.FGoIVMYnyg5dpiYUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/04f2d049bbb158617b3133167955b45c"/>
-        </div>
+        {this.state.articles.map((element)=> { 
+            return <div className='col-md-4'>
+        <NewsItem key={element.url} title={element.title} description={element.description} imageUrl={element.urlToImage}/>
+        </div>})}
+     
+   \
         </div>
  
       </div>
