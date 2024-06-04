@@ -260,6 +260,14 @@ export class News extends Component {
             loading : false
         }
     }
+
+   async componentDidMount(){
+    console.log("cdm")
+    let url = "https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=6a4432b566b04f6bb1e2b65c5b849960"
+   let data = await fetch(url);
+   let paresData = await data.json()
+   console.log(paresData)
+}
   render() {
     return (
       <div  className='container my-3'>
