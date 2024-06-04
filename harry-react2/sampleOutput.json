@@ -1,1317 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 278,
+    "totalResults": 70,
     "articles": [
-    {
-    "source": {
-    "id": null,
-    "name": "Yahoo Entertainment"
-    },
-    "author": "Lawrence Bonk",
-    "title": "The second-gen HomePod is on sale for $175 right now",
-    "description": "If you've been thinking of buying Apple's HomePod (2nd generation), now's the time to act — it's on sale right now at Verizon for $175. That's a significant $125 discount (42 percent off) and represents one of the best deals we've seen on the smart speaker to…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3226799e-cef0-4e4f-a4ed-fe5c8332fb86",
-    "urlToImage": null,
-    "publishedAt": "2024-06-04T07:41:44Z",
-    "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "ReadWrite"
-    },
-    "author": "Owen Good",
-    "title": "Just Cause maker announces layoffs, closes two studios",
-    "description": "It’s still a terrible year for employment in the video games development industry. Monday, Sweden-based Avalanche Studios Group, makers of… Continue reading Just Cause maker announces layoffs, closes two studios\nThe post Just Cause maker announces layoffs, cl…",
-    "url": "https://readwrite.com/video-games-development-layoffs-just-cause-avalanche-studios/",
-    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/ss_c5f5d74cc8eb64bf182e79758875ad250e7d2c2f.jpg",
-    "publishedAt": "2024-06-04T00:08:29Z",
-    "content": "Its still a terrible year for employment in the video games development industry.\r\nMonday, Sweden-based Avalanche Studios Group, makers of the just-optioned-to-Hollywood Just Cause action franchise, … [+1704 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Hipertextual"
-    },
-    "author": "Luis Miranda",
-    "title": "Qualcomm promete un PC de escritorio con Snapdragon X Elite",
-    "description": "Qualcomm confirmó que llevará su nuevo chip Snapdragon X Elite a los ordenadores de todo tipo y tamaño, incluyendo los de escritorio. Durante la keynote de apertura en Computex 2024, el fabricante declaró que estamos ante un renacimiento del PC, encabezado su…",
-    "url": "http://hipertextual.com/2024/06/qualcomm-pc-escritorio-snapdragon-x-elite",
-    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/06/qualcomm-snapdragon-x-elite-00.jpg",
-    "publishedAt": "2024-06-04T00:23:28Z",
-    "content": "Qualcomm confirmó que llevará su nuevo chip Snapdragon X Elite a los ordenadores de todo tipo y tamaño, incluyendo los de escritorio. Durante la keynote de apertura en Computex 2024, el fabricante de… [+3368 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Xataka.com"
-    },
-    "author": "Javier Lacort",
-    "title": "Microsoft va a necesitar para la era de la IA a quienes le dieron la espalda en la era del móvil: los desarrolladores",
-    "description": "Microsoft está volviendo a cortejar a los desarrolladores de Windows para que transformen sus aplicaciones con IA. Pero le espera un reto tan difícil como con el que ya fracasó hace una década, cuando trató sin éxito de convencerles para que portaran sus apps…",
-    "url": "https://www.xataka.com/empresas-y-economia/microsoft-va-a-necesitar-para-era-ia-a-quienes-le-dieron-espalda-era-movil-desarrolladores",
-    "urlToImage": "https://i.blogs.es/11eff3/dest-2/840_560.jpeg",
-    "publishedAt": "2024-06-04T06:00:35Z",
-    "content": "Microsoft está volviendo a cortejar a los desarrolladores de Windows para que transformen sus aplicaciones con IA. Pero le espera un reto tan difícil como con el que ya fracasó hace una década, cuand… [+2868 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Digital Trends"
-    },
-    "author": "Jacob Roach",
-    "title": "The Intel we know is dead, but its new Lunar Lake chips are very much alive",
-    "description": "Lunar Lake is more than just a new generation of Intel, and our first look at the chips shows that clearly.",
-    "url": "https://www.digitaltrends.com/computing/intel-lunar-lake-is-very-much-alive/",
-    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/05/ITT-2.jpg?resize=1200%2C630&p=1",
-    "publishedAt": "2024-06-04T03:00:18Z",
-    "content": "Intel\r\nIt’s not an exaggeration to call Lunar Lake radical. The upcoming chips don’t showcase the Intel we’ve seen so many times before — the one that pushes power, core counts, and clock speeds to t… [+6515 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "heise online"
-    },
-    "author": "Florian Müssig",
-    "title": "Computex: Intels Mobil-CPU Lunar Lake: Sonderlocke mit vielen Neuerungen",
-    "description": "Neue P-Kerne, neue E-Kerne, neue GPU, neue NPU, neues Package: Intel macht bei Lunar Lake vieles anders, um in der Welt der KI-tauglichen Notebooks anzukommen.",
-    "url": "https://www.heise.de/news/Intels-Mobil-CPU-Lunar-Lake-Sonderlocke-mit-vielen-Neuerungen-9744808.html",
-    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/0/4/1/2/9/IMG_5385-e714886b8dc375cc.jpg",
-    "publishedAt": "2024-06-04T03:00:00Z",
-    "content": "Inhaltsverzeichnis\r\nKein halbes Jahr nach dem Start von Intels Mobilprozessor Meteor Lake alias Core Ultra 100 wirft schon der Nachfolger Lunar Lake seine Schatten voraus. Moment mal: Sollte nach Met… [+7820 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "9to5Mac"
-    },
-    "author": "Filipe Espósito",
-    "title": "Apple releases revised iPadOS 17.5.1 build for 10th gen iPad",
-    "description": "It’s been two weeks since Apple released iOS 17.5.1 and iPadOS 17.5.1 to fix a specific problem that caused deleted photos to reappear in the user’s photo library. For some reason, Apple on Monday released a revised build of iPadOS 17.5.1 for the .\n\n\n\n more…",
-    "url": "https://9to5mac.com/2024/06/03/revised-ipados-17-5-1-build-ipad-10/",
-    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/iPadOS-17.5-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "publishedAt": "2024-06-04T00:28:51Z",
-    "content": "It’s been two weeks since Apple released iOS 17.5.1 and iPadOS 17.5.1 to fix a specific problem that caused deleted photos to reappear in the user’s photo library. For some reason, Apple on Monday re… [+1347 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Álvaro García M.",
-    "title": "El jefazo de Microsoft se pone celoso con Apple por su acuerdo con OpenAI: ¿tienen miedo?",
-    "description": "Todo apunta a que la próxima semana se anunciará un acuerdo entre Apple y OpenAI. Un acuerdo que es ya un secreto a voces y que tiene en iOS 18 sus principales derivaciones. Y es que, pese a las funciones de IA que agregará Apple en sus iPhone y que parte de …",
-    "url": "https://www.applesfera.com/apple-1/jefazo-microsoft-se-pone-celoso-apple-su-acuerdo-openai-tienen-miedo",
-    "urlToImage": "https://i.blogs.es/75b6e1/microsoft-openai-apple/840_560.jpeg",
-    "publishedAt": "2024-06-04T07:16:35Z",
-    "content": "Todo apunta a que la próxima semana se anunciará un acuerdo entre Apple y OpenAI. Un acuerdo que es ya un secreto a voces y que tiene en iOS 18 sus principales derivaciones. Y es que, pese a las func… [+2710 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Guille Lomener",
-    "title": "Un vecino localiza su iPhone robado con la app Buscar y no da crédito al lugar donde se encuentra",
-    "description": "Que te roben el iPhone es una de las peores situaciones que nos pueden tocar vivir. No solo por el problema económico que supone comprar uno nuevo, sino también por la gran pérdida de datos si no tienes una copia de seguridad en iCloud. Afortunadamente, Apple…",
-    "url": "https://www.applesfera.com/iphone/vecino-localiza-su-iphone-robado-app-buscar-no-da-credito-al-lugar-donde-se-encuentra",
-    "urlToImage": "https://i.blogs.es/69247d/iphone-perdido/840_560.jpeg",
-    "publishedAt": "2024-06-04T08:00:42Z",
-    "content": "Que te roben el iPhone es una de las peores situaciones que nos pueden tocar vivir. No solo por el problema económico que supone comprar uno nuevo, sino también por la gran pérdida de datos si no tie… [+2034 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Presse-citron"
-    },
-    "author": "Setra",
-    "title": "Quelle est la différence entre un iPhone “ancien” et un iPhone “obsolète” ?",
-    "description": "Apple vient d’ajouter un modèle “ancien” à sa liste des iPhone “obsolètes”. Mais qu’est-ce que cela signifie ?",
-    "url": "https://www.presse-citron.net/quelle-est-la-difference-entre-un-iphone-ancien-et-un-iphone-obsolete/",
-    "urlToImage": "https://www.presse-citron.net/app/uploads/2024/06/iPhone-5S-obsolete-vintage-ancien-touchID.jpg",
-    "publishedAt": "2024-06-04T08:01:43Z",
-    "content": "Lun des avantages de posséder un iPhone est lextrême longévité des produits Apple. En effet, la firme de Cupertino continue de fournir des mises à jour de sécurité pour des iPhone sortis il y a plusi… [+2945 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Frandroid"
-    },
-    "author": "Cassim Montilla",
-    "title": "Intel lance ses processeurs Lunar Lake : voici les nouveautés",
-    "description": "Intel présente sa nouvelle génération de puces Lunar Lake en marge du Computex.",
-    "url": "https://www.frandroid.com/marques/intel-materiels-accessoires/2036514_intel-lance-ses-processeurs-lunar-lake-voici-les-nouveautes",
-    "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/06/intel-lunar-lake-presentation.jpeg",
-    "publishedAt": "2024-06-04T03:00:14Z",
-    "content": "Intel présente sa nouvelle génération de puces Lunar Lake en marge du Computex. \r\nLa situation est complexe pour Intel. Autrefois incontesté sur le marché du PC, le fabricant de processeur doit désor… [+3143 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Slickdeals.net"
-    },
-    "author": "Discombobulated",
-    "title": "Power: The Complete Series (2014; Digital HD TV Show) $10",
-    "description": "Apple iTunes has *Power: The Complete Series* (2014; Digital HD TV Show) for *$9.99*. \n \nThanks to Deal Editor *Discombobulated* for finding this deal. \n \nNote, TV show/series are not Movies Anywhere...",
-    "url": "https://slickdeals.net/f/17533809-power-the-complete-series-2014-digital-hd-tv-show-9-99-via-apple-itunes",
-    "urlToImage": "https://static.slickdealscdn.com/attachment/1/8/2/3/4/5/1/7/15572256.attach",
-    "publishedAt": "2024-06-04T02:34:32Z",
-    "content": "Apple iTunes has Power: The Complete Series (2014; Digital HD TV Show) for $9.99.Thanks to Deal Editor Discombobulated for finding this deal.\r\nNote, TV show/series are not\r\nMovies Anywhere (MA) compa… [+313 chars]"
-    },
-    {
-    "source": {
-    "id": "al-jazeera-english",
-    "name": "Al Jazeera English"
-    },
-    "author": "Al Jazeera",
-    "title": "India’s stock market dips as expectations of Modi landslide recede",
-    "description": "Selloff comes after polls predicting large majority for National Democratic Alliance sent stocks to all-time highs.",
-    "url": "https://www.aljazeera.com/economy/2024/6/4/indias-stock-market-dips-as-modi-seen-headed-for-slimmer-majority",
-    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/2024-06-03T081434Z_476413789_RC2J38AWNJQH_RTRMADP_3_INDIA-MARKETS-VOLATILITY-1717478980.jpg?resize=1920%2C1440",
-    "publishedAt": "2024-06-04T05:49:59Z",
-    "content": "Indian financial markets sold off sharply as early vote counting trends suggested Prime Minister Narendra Modis Bharatiya Janata Party (BJP)-led alliance is unlikely to win an overwhelming majority a… [+3178 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "GSMArena.com"
-    },
-    "author": "Vlad",
-    "title": "iPhone Fold could arrive by 2027, analysts now say",
-    "description": "The foldable smartphone market keeps on growing at a much faster pace than the overall smartphone market. So Apple can't stay away from this lucrative market forever, and indeed we've already heard countless rumors about a foldable iPhone coming in the next f…",
-    "url": "https://www.gsmarena.com/iphone_fold_could_arrive_by_2027_analysts_now_saying-news-63124.php",
-    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/06/iphone-fold-2027/-952x498w6/gsmarena_000.jpg",
-    "publishedAt": "2024-06-04T01:13:02Z",
-    "content": "The foldable smartphone market keeps on growing at a much faster pace than the overall smartphone market. So Apple can't stay away from this lucrative market forever, and indeed we've already heard c… [+1408 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "PCWorld"
-    },
-    "author": "Mark Hachman",
-    "title": "Lunar Lake deep-dive: Intel’s new laptop CPU is radically different",
-    "description": "Intel launches Lunar Lake, its next entrant into its Core Ultra series of laptop processors, today at Computex, ushering in a new generation of AI-infused Copilot+ PCs that have been initially overshadowed by Qualcomm.\r\n\n\n\n\nStop us if you’ve heard this before…",
-    "url": "https://www.pcworld.com/article/2350967/intels-lunar-lake-debuts-combining-low-power-performance-and-ai.html",
-    "urlToImage": "https://www.pcworld.com/wp-content/uploads/2024/06/DSCF4972_finalAPM.jpg?quality=50&strip=all&w=1024",
-    "publishedAt": "2024-06-04T03:00:00Z",
-    "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nIntel launches Lunar… [+21287 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Boredpanda.com"
-    },
-    "author": "Indrė Lukošiūtė",
-    "title": "100 Of The All-Time Best Treasures That Have Ever Been Found By “Stooping NYC”",
-    "description": "You can find anything in New York City. Whether you’re on the hunt for a delicious bagel, an incredible live performance, a world-renowned museum or a rat running through the subway dragging a slice of pizza, the Big Apple has it all. In fact, even the street…",
-    "url": "https://www.boredpanda.com/best-stooping-pics-new-york-city/",
-    "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2024/06/best-stooping-pics-new-york-city-fb.png",
-    "publishedAt": "2024-06-04T06:28:15Z",
-    "content": "There’s no question that New York City is a place unlike any other. Home to nearly 20 million people, the Big Apple is a bustling city full of culture. Here, you can visit some of the best museums th… [+773 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Deadline"
-    },
-    "author": "Jesse Whittock",
-    "title": "Beta Shops Crime Drama ‘I Am Scrooge’ To U.S., Canada, Australia & Europe Ahead Of Seriencamp World Premiere",
-    "description": "EXCLUSIVE: German drama series I Am Scrooge has landed homes in North America, Europe and Australia ahead of its world premiere at Seriencamp in Cologne this week. Beta Film has sold, which is from the German producer-distributor’s subsidiary Zeitsprung Pictu…",
-    "url": "http://deadline.com/2024/06/i-am-scrooge-international-deals-seriencamp-world-premiere-1235957606/",
-    "urlToImage": "https://deadline.com/wp-content/uploads/2024/06/Beta-Film_I-Am-Scrooge_-Zeitsprung_RTL_Stephan-Pick-2.jpg?w=1024",
-    "publishedAt": "2024-06-04T07:00:00Z",
-    "content": "EXCLUSIVE: German drama series I Am Scrooge has landed homes in North America, Europe and Australia ahead of its world premiere at Seriencamp in Cologne this week.\r\nBeta Film has sold, which is from … [+1916 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "La Vanguardia"
-    },
-    "author": "Fran Besora",
-    "title": "¿Tienes un Apple Watch y te gusta correr? El próximo 5 de junio Apple tiene un reto para ti",
-    "description": "Si tienes un Apple Watch y te gusta correr, estás de suerte porque el próximo 5 de junio, Apple celebrará un nuevo reto de actividad para conmemorar el Día Mundial de Correr. Un reto en el que deberás realizar una carrera para conseguir la medalla distintiva …",
-    "url": "https://www.lavanguardia.com/andro4all/apple/tienes-un-apple-watch-y-te-gusta-correr-el-proximo-5-de-junio-apple-tiene-un-reto-para-ti",
-    "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/06/nuevo-reto-de-actividad-apple.jpeg?width=1200",
-    "publishedAt": "2024-06-04T06:31:34Z",
-    "content": "El próximo 5 de junio Apple celebrará un nuevo reto de actividad\r\nSi tienes un Apple Watch y te gusta correr, estás de suerte porque el próximo 5 de junio, Apple celebrará un nuevo reto de actividad … [+1893 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Appbank.net"
-    },
-    "author": "篠原修司 （@digimaga）",
-    "title": "楽天モバイル、『AirPods Pro（第2世代）』を35,800円でセール予告。楽天スーパーSALEで",
-    "description": "楽天モバイルが本日6月4日20時からの「楽天スーパーSALE」にて、『MagSafe充電ケース（USB-C）付きAirPods Pro（第2世代）』を通常価格39,800円のところを35,800円でセールすると予告しています。 6月4日20",
-    "url": "https://www.appbank.net/2024/06/04/iphone-news/2733682.php",
-    "urlToImage": "https://www.appbank.net/wp-content/uploads/2024/06/240604_rakutenairpods.png",
-    "publishedAt": "2024-06-04T02:00:00Z",
-    "content": "6420SALEMagSafeUSB-CAirPods Pro239,80035,800\r\n6420611159AirPods Pro235,800\r\n4,000OFFMagSafeUSB-CAirPods Pro2 2023 Apple MagSafe MTJV3J/A \r\nAirPods Pro2"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Appbank.net"
-    },
-    "author": "篠原修司 （@digimaga）",
-    "title": "楽天モバイル、『AirTag』を4,600円でセール予告。楽天スーパーSALEで",
-    "description": "楽天モバイルが本日6月4日20時からの「楽天スーパーSALE」にて、探しものタグ『AirTag』を通常価格4,980円のところを4,600円でセールすると予告しています。 6月4日20時から6月11日1時59分までの期間中、以下のページにて",
-    "url": "https://www.appbank.net/2024/06/04/iphone-news/2733686.php",
-    "urlToImage": "https://www.appbank.net/wp-content/uploads/2024/06/240604_rakutenairtag01.jpg",
-    "publishedAt": "2024-06-04T04:00:00Z",
-    "content": "6420SALEAirTag4,9804,600\r\n6420611159AirTag\r\n<ul><li>AirTag4,980 4,600</li><li>AirTag 416,980 15,000</li><li>AirTag3,730 3,200</li><li>AirTag5,370 4,600</li><li>AirTag4,350 3,750</li></ul>Apple | iPho… [+21 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "DIE WELT"
-    },
-    "author": "Holger Zschäpitz, Anja Ettel",
-    "title": "Fette Optionsgewinne bei Gamestop und 100%-Schocker bei Berkshire",
-    "description": "In der heutigen Folge von „Alles auf Aktien” sprechen die Finanzjournalisten Anja Ettel und Holger Zschäpitz über das Allzeithoch bei Nvidia, einen Milliardenverkauf bei der T-Aktie und fabelhafte Gewinne bei Versicherungsaktien.",
-    "url": "https://www.welt.de/podcasts/alles-auf-aktien/article251847452/Boersen-Podcast-Pleite-beim-Reiseanbieter-FTI-das-muessen-Kunden-jetzt-tun.html",
-    "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile244546290/0511356647-ci16x9-w1200/ettel-zschae-DWO-Podcast-Teaser-AllesAufAktien-mit-2zu3-ettel-zschaepitz-aw.jpg",
-    "publishedAt": "2024-06-04T03:00:15Z",
-    "content": "Außerdem geht es um Tui, Borussia Dortmund, New Work, Moeller Maersk, Allianz, Hannover Rück, Bitcoin, Paramount, Gitlab, AMC, den Xtrackers MSCI Mexico ETF (WKN: DBX0ES), Franklin FTSE India 30/18 C… [+522 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "DIE WELT"
-    },
-    "author": "Antonia Beckermann",
-    "title": "Hochwasser-Katastrophe – wie schützt Deutschland seine Bürger?",
-    "description": "Auch am vierten Tag des Hochwassers ist die Lage in einigen Teilen Süddeutschlands noch kritisch. Rufe nach einem Ausbau des Katastrophenschutzes werden laut. Politikredakteur Nikolaus Doll analysiert das aktuelle Krisenmanagement und zieht Lehren für die Zuk…",
-    "url": "https://www.welt.de/podcasts/article251843190/Hochwasser-Katastrophe-wie-schuetzt-Deutschland-seine-Buerger.html",
-    "urlToImage": "https://img.welt.de/img/podcasts/mobile249731462/0401352707-ci16x9-w1200/DWO-Podcast-Teaser-Das-bringt-der-Tag-Juliane-Schneider.jpg",
-    "publishedAt": "2024-06-04T02:59:56Z",
-    "content": "Hier können Sie die aktuelle Folge von Das bringt der Tag direkt hören:\r\nAbonnieren Sie den Podcast unter anderem bei Spotify, Apple Podcasts oder Amazon Music.\r\nDas bringt der Tag jeden Morgen ab 5 … [+805 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Techbang.com"
-    },
-    "author": "netizen",
-    "title": "Spacetop G1筆電使用 AR 眼鏡創造出 100 吋的虛擬桌面，但目前缺乏原生應用程式",
-    "description": "Spacetop G1 售價 1,900 美元，提供了近 180 度的螢幕空間。但是，缺乏原生應用程式。「空間電腦」這個詞的問題在於，大多數使用這個晦澀的行銷術語的設備實際上看起來並不像電腦。沒錯，Apple Vision Pro 或 Meta Quest 3 符合「電腦」的定義，但大多數人仍然認為「PC」是桌上型電腦或是筆記型電腦。因此，現在有了 Spacetop G1，一款 AR 筆電，試圖挑戰桌上型電腦和VR市場因循守舊的方式。\n售價 1,900 美元的 Spacetop G1 是一副 AR 眼鏡，搭配筆記…",
-    "url": "https://www.techbang.com/posts/115808-spacetop-g1-laptop-ar-glasses",
-    "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/115808/original/292d03b9b6836f1fa5c23996ebd18f7e.jpg?1717388880",
-    "publishedAt": "2024-06-04T04:00:00Z",
-    "content": "Apple Vision Pro Meta Quest 3 PC Spacetop G1 AR VR\r\n 1,900 Spacetop G1 AR G1 Sightful Spacetop EA Magic Leap XReal Xreal Air 2 Pro\r\n G1 Sightful AR Apple \r\n Spacetop G1 AR \r\nSpacetop G1 \r\n100 180 AR … [+354 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Techbang.com"
-    },
-    "author": "耕陶",
-    "title": "Volkswagen The T-Roc 推出豔夏優享價 116.8 萬元起，再享專屬優惠",
-    "description": "促銷 Volkswagen T-Roc 和 Tiguan R ！優享優惠和頂級配備等你來體驗台灣福斯汽車總裁 Steffen Knapp 表示：「搖滾跑旅 The T-Roc 憑藉豐富安全科技、充沛駕馭樂趣、以及新世代數位座艙征服消費者的心，2023 年奪下全台 A0 級距進口休旅銷售冠軍，超群實力有目共睹。」\n\nThe T-Roc 外觀設計運動化、洋溢活力前衛風采，全車系標配完善 IQ.DRIVE 智能駕駛輔助系統，280 TSI Style Design 以上車型擁有 IQ.LIGHT 智慧燈組：LED Ma…",
-    "url": "https://www.techbang.com/posts/115797-volkswagen-the-t-roc-the-t-roc1168",
-    "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/115797/original/bb9f0862f64353079333b1405950d5b5.jpg?1717383366",
-    "publishedAt": "2024-06-04T00:30:00Z",
-    "content": "Steffen Knapp The T-Roc 2023 A0 \r\nThe T-Roc IQ.DRIVE 280 TSI Style Design IQ.LIGHT LED Matrix DLA \r\n330 TSI R-Line Performance Beats 300W R Black Style \r\nThe Tiguan R The T-Roc R Volkswagen R The T-R… [+910 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Techbang.com"
-    },
-    "author": "國寶大師 李文恩",
-    "title": "Computex 2024：AMD CEO Keynote重點整理，Zen 5消費級、伺服器處理器齊發，透露Steble Diffusion 3於6月12日推出",
-    "description": "AMD執行長蘇姿丰在Computex 2024台北國際電腦展前1日進行CEO Keynote主題演說，介紹消費級、伺服器處理器以及AI運算加速器產品規劃。AMD執行長蘇姿丰在Computex 2024台北國際電腦展前1日進行CEO Keynote主題演說，介紹消費級、伺服器處理器以及AI運算加速器產品規劃。\nZen 5處理器與AIPC大軍壓境\n蘇姿丰在主題演說前半段聚焦於消費級處理器，介紹採用Zen 5架構的Ryzen 9000系列桌上型處理器與Ryzen AI 300系列行動版處理器。由於筆者已進行詳細介紹，故…",
-    "url": "https://www.techbang.com/posts/115840-computex-2024-amd-ceo-keynote",
-    "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/115840/original/210e2c813e527912801ca944db0cdb47.jpg?1717429464",
-    "publishedAt": "2024-06-04T01:00:00Z",
-    "content": "AMDComputex 20241CEO KeynoteAI\r\nZen 5AIPC\r\nZen 5Ryzen 9000Ryzen AI 300\r\nComputex 2024AMDRyzen 9000Ryzen AI 300Ryzen 9 5900XTRadeon PRO W7900DS\r\n7Ryzen AI 300AI50 TOPSNPUMicrosoftHPLenovoAsusAIPC\r\nAMD… [+1236 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Techbang.com"
-    },
-    "author": "國寶大師 李文恩",
-    "title": "Computex 2024：Intel於Technology Tour Taiwan發表Lunar Lake處理器，帶來1.5倍GPU、3倍NPU效能",
-    "description": "Intel在Computex 2024台北國際電腦展前舉辦的Technology Tour Taiwan台灣技術說明會發表了Lunar Lake處理器並公部許多技術細節，預計於第3季推出對應產品。Intel在Computex 2024台北國際電腦展前舉辦的Technology Tour Taiwan台灣技術說明會發表了Lunar Lake處理器並公部許多技術細節，預計於第3季推出對應產品。\n顛覆x86既有印象\nIntel執行副總裁暨PC客戶運算事業群總經理Michelle Johnston Holthaus在5月…",
-    "url": "https://www.techbang.com/posts/115785-intel-lunar-lake",
-    "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/115785/original/dca47a09b96c0335b1c4336e87677cb2.jpg?1717234811",
-    "publishedAt": "2024-06-04T03:00:00Z",
-    "content": "IntelComputex 2024Technology Tour TaiwanLunar Lake3\r\nx86\r\nIntelPCMichelle Johnston Holthaus53031Technology Tour TaiwanLunar LakeCore Ultra 2Lunar LakeGPUNPU64\r\nIntelMeteor LakeNPU AI\r\nIntelLunar Lake… [+1717 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Inside.com.tw"
-    },
-    "author": "INSIDE 硬塞的網路趨勢觀察",
-    "title": "你還記得 Napster 嗎？這「網路音樂先驅」，也是盜版狂潮推手已問世 25 週年",
-    "description": "Napster 是在 1999 年美國大學生 Shawn Fanning、Sean Parker 所推出，當時僅 17 歲的 Fanning 想要創造一個讓全世界的電腦都能互相分享檔案的系統（是不是頗有中本聰的味道？）",
-    "url": "https://www.inside.com.tw/article/35214-napster-25-years-ago",
-    "urlToImage": "https://bucket-image.inkmaginecms.com/version/social/1/image/2024/06/aa715f2a-8a54-4e1d-9826-19b1d6266cf2.jpg",
-    "publishedAt": "2024-06-04T00:23:00Z",
-    "content": "Napster 25 P2P 2001 150 \r\nNapster 1999 Shawn FanningSean Parker 17 Fanning P2P \r\nP2P Shawn Fanning P2P \r\nNapster MP3 1993 Karlheinz Brandenburg Fraunhofer MP3 \r\nRIAA Hilary Rosen Napster RIAA Metalli… [+226 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Linuxtoday.com"
-    },
-    "author": "Web Webster",
-    "title": "Fedora Approves Exception for macOS Binaries in Asahi-Installer",
-    "description": "Fedora FESCo grants an exception for shipping prebuilt macOS binaries to support Apple Silicon. Here’s more on that!\nThe post Fedora Approves Exception for macOS Binaries in Asahi-Installer appeared first on Linux Today.",
-    "url": "https://www.linuxtoday.com/news/fedora-approves-exception-for-macos-binaries-in-asahi-installer/",
-    "urlToImage": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png",
-    "publishedAt": "2024-06-04T02:00:46Z",
-    "content": "Advertiser Disclosure: Some of the products that appear on this site are from companies from which TechnologyAdvice receives compensation. This compensation may impact how and where products appear o… [+169 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Ghacks Technology News"
-    },
-    "author": "Ashwin",
-    "title": "Spotify Premium prices have increased again in the U.S.",
-    "description": "Spotify has announced that it has increased the prices of its Premium plans, again. This is not really surprising because most streaming services have raised the costs of their subscriptions in the […]\nThank you for being a Ghacks reader. The post Spotify Pre…",
-    "url": "https://www.ghacks.net/2024/06/04/spotify-premium-prices-have-increased-again-in-the-u-s/",
-    "urlToImage": "https://www.ghacks.net/wp-content/uploads/2024/06/Spotify-Premium-prices-have-increased-again-in-the-U.S.jpg",
-    "publishedAt": "2024-06-04T04:56:38Z",
-    "content": "Spotify has announced that it has increased the prices of its Premium plans, again. This is not really surprising because most streaming services have raised the costs of their subscriptions in the r… [+2938 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Forbes"
-    },
-    "author": "Ime Ekpo, Contributor, \n Ime Ekpo, Contributor\n https://www.forbes.com/sites/imeekpo/",
-    "title": "Ayra Starr Embraces Adulthood In New Album ‘The Year I Turned 21’",
-    "description": "Starr is now continuing to bask in her warm welcome to musical prominence with the debut of her sophomore album, 'The Year I Turned 21.'",
-    "url": "https://www.forbes.com/sites/imeekpo/2024/06/03/ayra-starr-embraces-adulthood-in-new-album-the-year-i-turned-21/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665e83ed88fe0e8846176ae4/0x0.jpg?format=jpg&crop=2429,1821,x0,y455,safe&height=900&width=1600&fit=bounds",
-    "publishedAt": "2024-06-04T03:15:07Z",
-    "content": "Ayra Starr '21'\r\nMikey Oshai\r\nIn 2022, young Beninese-Nigerian artist Ayra Starr launched to the anterior of the Afrobeats cipher. She had already made history the previous year with her debut album,… [+4991 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Forbes"
-    },
-    "author": "Dave Altavilla, Senior Contributor, \n Dave Altavilla, Senior Contributor\n https://www.forbes.com/sites/davealtavilla/",
-    "title": "Intel Lunar Lake Set To Fuel The Next Wave Of AI PC Revolution",
-    "description": "A number of key execs at Intel are claiming this new CPU architecture will redefine the X86 versus Arm performance-per-watt paradigm.",
-    "url": "https://www.forbes.com/sites/davealtavilla/2024/06/03/intel-lunar-lake-set-to-fuel-the-next-wave-of-ai-pc-revolution/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665d97afb4f5c8883d6e8c50/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2024-06-04T03:00:00Z",
-    "content": "Michelle Johnston Holthaus, Executive Vice President General Manager, Intel Client Computing Group\r\nDave Altavilla\r\nAhead of Computex 2024 this week, Intel gave select members of the press and analys… [+8499 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "ComputerBase"
-    },
-    "author": "Volker Rißka",
-    "title": "Intel Lunar Lake im Detail: Die neuen E-Cores schlagen die alten P-Cores, Xe2 löst Xe ab",
-    "description": "Intels neues mobiles SoC Lunar Lake entpuppt sich als sehr flottes Gesamtpaket mit einigen großen Überraschungen. Die neuen E-Cores sind schneller als die alten P-Cores, die neuen P-Cores noch einmal flotter. Dazu kommen Xe2-Grafik, die stärkere NPU und aktua…",
-    "url": "https://www.computerbase.de/2024-06/intel-lunar-lake-computex-2024/",
-    "urlToImage": "https://pics.computerbase.de/1/1/2/5/9/3-9f04a94ef57273d8/article-1280x720.8bd4488e.jpg",
-    "publishedAt": "2024-06-04T03:00:00Z",
-    "content": "Intels neues mobiles SoC Lunar Lake entpuppt sich als sehr flottes Gesamtpaket mit einigen großen Überraschungen. Die neuen E-Cores sind schneller als die alten P-Cores, die neuen P-Cores noch einmal… [+33402 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Antyweb.pl"
-    },
-    "author": "Piotr Kurek",
-    "title": "iPad słabszy niż reklamowano? Nic z tych rzeczy, Apple tłumaczy się z wpadki",
-    "description": "Apple tłumaczy się z wpadki z błędną specyfikacją techniczną nowego iPada Air. Ten miał posiadać 10 rdzeni GPU, a w rzeczywistości posiada tych rdzeni 9. O co chodzi w całej sprawie?\n \n The post iPad słabszy niż reklamowano? Nic z tych rzeczy, Apple tłumaczy …",
-    "url": "https://antyweb.pl/ipad-slabszy-niz-reklamowano",
-    "urlToImage": "https://antyweb.pl/img/1250/550/fit/wp-content/uploads/2024/06/vbwwx0sb1j/ipadair.jpg",
-    "publishedAt": "2024-06-04T07:07:55Z",
-    "content": "W weekend rozgorzaa ogromna dyskusja po tym, jak si okazao, e nowy iPad Air dziaajcy pod kontrol ukadu M2 ma inn specyfikacj techniczn, ni reklamowao Apple. Chodzi o sytuacj, w której wprowadzony na … [+2964 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "3dnews.ru"
-    },
-    "author": null,
-    "title": "Актёр, прославившийся в рекламе Apple Mac, теперь продвигает ноутбуки на Snapdragon X и Windows",
-    "description": "Американский актёр Джастин Лонг (Justin Long), около двадцати лет назад прославившийся серией рекламных роликов «I’m a Mac» в поддержку компьютеров Apple, несколько лет назад переметнулся к Intel, а на выставке Computex 2024 был замечен в коротком ролике в по…",
-    "url": "https://3dnews.ru/1105909/dgastin-long-teper-reklamiruet-noutbuki-na-snapdragon-x",
-    "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/06/04/1105909/long.jpg",
-    "publishedAt": "2024-06-04T07:38:00Z",
-    "content": "(Justin Long), «I’m a Mac» Apple, Intel, Computex 2024 Qualcomm Snapdragon X Windows.\r\n: youtube.com/@snapdragon\r\n«Get a Mac» «» Apple Windows, (John Hodgman) — , , . Qualcomm (Cristiano Amon). Apple… [+155 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Tinhte.vn"
-    },
-    "author": "no-reply@tinhte.vn (Lư Thế Nghĩa), Lư Thế Nghĩa",
-    "title": "Computex 2024: Kiến trúc Intel Lunar Lake - Nền tảng AI cá nhân 120 TOPS",
-    "description": "Bên cạnh Xeon 6 và Gaudi 3, sự kiện Computex cũng là dịp để Intel \"khoe\" kiến trúc Lunar Lake (LNL) với toàn bộ giới công nghệ, nhất là trên PC.\n \nAI có thể nói đang là \"hot trend\" của công nghệ. Thế nên dù chỉ là một trong số rất nhiều tính năng…",
-    "url": "https://tinhte.vn/thread/computex-2024-kien-truc-intel-lunar-lake-nen-tang-ai-ca-nhan-120-tops.3793966/",
-    "urlToImage": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353766_876bfb45a8a5cba2d0c27f5a6a961357.jpg",
-    "publishedAt": "2024-06-04T05:32:20Z",
-    "content": "V c bn, c Lion Cove và Skymont u là bn nâng cp \"mnh\" t Redwood Cove và Crestmont. Và nu không mun nói là \"cc mnh\" so vi các th h trc ó.\r\nCu trúc nhân P-core Lion Cove\r\nVi Lion Cove, nhân x lý này ã m… [+5487 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Neowin"
-    },
-    "author": "Aditya Tiwari",
-    "title": "These are the new Apple Stickers for WWDC 2024",
-    "description": "Apple has released some new stickers ahead of the WWDC 2024 annual developer conference. These stickers are part of the updated Apple Developer app v10.6, which is now available on the App Store. Read more...",
-    "url": "https://www.neowin.net/news/these-are-the-new-apple-stickers-for-wwdc-2024/",
-    "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/06/1717474042_apple_stickers_wwdc_2024_story.jpg",
-    "publishedAt": "2024-06-04T04:22:01Z",
-    "content": "Apple's annual developer conference WWDC 2024 is just around the corner, scheduled from June 10 through June 14. The Cupertino giant has updated its Apple Developer app to include details about keyno… [+1838 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Neowin"
-    },
-    "author": "Aditya Tiwari",
-    "title": "Apple messed up M2 iPad Air specs but performance claims are accurate",
-    "description": "Apple updated its website and marketing materials to reflect that the M2 iPad Air has a 9-core GPU instead of 10. It later clarified that the performance claims made for the device are accurate. Read more...",
-    "url": "https://www.neowin.net/news/apple-messed-up-m2-ipad-air-specs-but-performance-claims-are-accurate/",
-    "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/05/1715120119_ipad_air_2024_hero_image_story.jpg",
-    "publishedAt": "2024-06-04T05:40:01Z",
-    "content": "Apple came in the news earlier this month after it updated the M2 iPad Air's tech specs page to reflect that the device comes with a 9-core GPU instead of a 10-core one as originally advertised. A 10… [+1449 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Neowin"
-    },
-    "author": "Sagar Naresh",
-    "title": "No foldable iPhone until 2027 before Apple irons out the ‘crease' issue",
-    "description": "It seems like we may not see the debut of the foldable iPhone before 2027, since Apple is taking its usual wait-and-see approach, and is also concerned about the crease issues on displays. Read more...",
-    "url": "https://www.neowin.net/news/no-foldable-iphone-until-2027-before-apple-irons-out-the-crease-issue/",
-    "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2022/11/1667977109_screenshot_2022-11-09_144019_story.jpg",
-    "publishedAt": "2024-06-04T05:06:01Z",
-    "content": "Back in March, reports of Apple's first foldable iPhone surfaced on the internet, suggesting a launch date sometime in 2026. It was suggested that Apple was evaluating 6 and 8-inch prototypes for its… [+1869 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "3dnews.ru"
-    },
-    "author": null,
-    "title": "Asus представила профессиональные Mini-LED-мониторы ProArt с разрешением 5K, 6K и 8K",
-    "description": "Компания Asus представила на выставке Computex 2024 три монитора серии ProArt для профессиональных пользователей: 27-дюймовую модель PA27JCV с разрешением 5K, 32-дюймовый PA32QCV с разрешением 6K, а также 32-дюймовый PA32KCX с разрешением 8K. Все новинки осна…",
-    "url": "https://3dnews.ru/1105910/asus-predstavila-na-vistavke-computex-2024-professionalnie-miniledmonitori-proart-s-razresheniem-5k-6k-i-8k",
-    "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/06/04/1105910/62382c7.jpg",
-    "publishedAt": "2024-06-04T07:36:00Z",
-    "content": "Asus Computex 2024 ProArt : 27- PA27JCV 5K, 32- PA32QCV 6K, 32- PA32KCX 8K. Mini-LED.\r\n: ComputerBase.de\r\nProArt Display 5K PA27JCV 27 — 218 ppi. 5120 × 2880 . . Apple Studio Display Samsung ViewFini… [+730 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Sspai.com"
-    },
-    "author": "两颗皮蛋",
-    "title": "[护城河] 苹果在 AI 上真的落后吗？WWDC24 AI 功能预测解析",
-    "description": "Apple 在 AI 领域到底是个什么水平？他们都干了些什么？今年的 WWDC，Apple 又会有哪些动作呢？查看全文",
-    "url": "https://sspai.com/post/89315",
-    "urlToImage": "https://cdnfile.sspai.com/2024/06/03/be80726a490a3624bef7e5777c112be6.jpeg",
-    "publishedAt": "2024-06-04T03:00:00Z",
-    "content": "@SysErr0r\r\nChatGPT AI AI \r\nAI AI WWDC\r\nHello AI\r\nAI \r\nAirPods Pro 2 AirPods Pro 2 \r\nGPT-2 iOS 17   App watchOS 9 App\r\nApple Watch Sign in with Apple \r\niOS iPadOS API\r\n 2020 API\r\nVision Pro AI Vision … [+726 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Sspai.com"
-    },
-    "author": "少数派编辑部",
-    "title": "派早报：AMD 推出多款新处理器、亚马逊 Kindle 中国电子书店月底停止服务等",
-    "description": "SpaceX 计划今年秋季推出蜂窝直连服务、戴森发售 360 Vis Nav 智能吸尘机器人等查看全文",
-    "url": "https://sspai.com/post/89336",
-    "urlToImage": "https://cdnfile.sspai.com/6/4/2024/article/3de258d4-cf71-47d8-523c-34e04874fc2f.png",
-    "publishedAt": "2024-06-04T00:50:51Z",
-    "content": "AMD \r\nAMD 9000 4nm Zen5 Zen5 8 16 32 CPU 2CU RDNA2 7 \r\nAMD Strix Point AMD Ryzen AI 300 APU Zen5 12 24 RDNA 3.5 GPU 16 CU XDNA2 AI NPU 50 TOPS Ryzen AI 300 APU AMD Ryzen AI 9 365 AMD Ryzen AI 9 HX 37… [+646 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Tinhte.vn"
-    },
-    "author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
-    "title": "Ứng dụng Apple TV sắp có trên Android?",
-    "description": "Trước giờ ứng dụng Apple TV vẫn chỉ có ứng dụng trên các thiết bị của Apple như iPhone, iPad, Mac, Apple TV box và 1 số hệ điều hành khác chứ chưa có trên Android. Nhưng trong vài ngày qua đã bắt đầu xuất hiện những tin đồn về việc Apple muốn mang…",
-    "url": "https://tinhte.vn/thread/ung-dung-apple-tv-sap-co-tren-android.3793757/",
-    "urlToImage": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8352756_bb89a90f3e2ed2dad194bd2f1d613edf.jpg",
-    "publishedAt": "2024-06-04T01:54:36Z",
-    "content": "Hin ti, ngi dùng Android có th xem các chng trình Apple TV+ trên in thoi và máy tính bng ca h bng cách s dng giao din web ti tv.apple.com. Tt nhiên, mt ng dng riêng s mang li tri nghim mt mà hn và cá… [+208 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Tinhte.vn"
-    },
-    "author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
-    "title": "Video: Qualcomm \"nhờ\" Justin Long để cà khịa Apple",
-    "description": "Justin Long, nam diễn viên từng nổi tiếng với vai \"I'm a Mac\" trong loạt quảng cáo của Apple, nay lại xuất hiện trong một quảng cáo mới của Qualcomm, khiến nhiều người xem không khỏi cảm thấy \"cringe\", ý mình là nó hơi lấn cấn :D.",
-    "url": "https://tinhte.vn/thread/video-qualcomm-nho-justin-long-de-ca-khia-apple.3793883/",
-    "urlToImage": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353375_666b9225c68dd2afdbf371016565c26b.jpg",
-    "publishedAt": "2024-06-04T00:02:10Z",
-    "content": "C th, qung cáo mi này ca Qualcomm c trình chiu vào cui bài phát biu ca CEO Cristiano Amon ti Computex 2024. Trong video dài 23 giây, Justin Long tìm 1 ca hàng t mua mt chic PC chy chipSnapdragon. Sau… [+910 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "[Removed]"
-    },
-    "author": null,
-    "title": "[Removed]",
-    "description": "[Removed]",
-    "url": "https://removed.com",
-    "urlToImage": null,
-    "publishedAt": "1970-01-01T00:00:00Z",
-    "content": "[Removed]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Cool3c.com"
-    },
-    "author": "Mash Yang",
-    "title": "蘋果 WWDC 2024 聚焦軟體更新 Vision Pro 將拓展海外市場",
-    "description": "蘋果 WWDC 2024 重點將在 iOS 18、iPadOS 18、watchOS 11 等軟體更新，可能不會有新硬體產品發表。 預計在美國西岸時間6月11日展開的蘋果開發者大會WWDC 2024，此次重心可能會全數著重在作業系統、服務等軟體更新，而不會有任何新款硬體產品發表。 先前取得不少蘋果動態資訊的彭博新聞記者Mark Gurman預期，蘋果在接下來將展開的WWDC 2024不會公布任何新款硬體產品，因此可能會將更多發表重點聚焦在iOS 18、iPadOS 18、watchOS 11、tvOS 11，以及…",
-    "url": "https://www.cool3c.com/article/217430",
-    "urlToImage": "https://sw.cool3c.com/article/2024/95a3b3db-6dae-4a31-a4f2-e9261286df06.jpg?fit=max&w=1400&q=80",
-    "publishedAt": "2024-06-04T02:42:48Z",
-    "content": "WWDC 2024 iOS 18iPadOS 18watchOS 11 \r\n611WWDC 2024\r\nMark GurmanWWDC 2024iOS 18iPadOS 18watchOS 11tvOS 11macOS 15\r\nApple TV\r\nWWDC 2024Vision Pro624"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Roomie.jp"
-    },
-    "author": "かいサポ（お買いものサポーター）",
-    "title": "無くしものが多いうっかりさんのお守り代わり。AppleのAirtagが買い時だよ〜 #Amazonセール",
-    "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  Amazon（アマゾン）で毎日開催されているタイムセール。 本日2024年6月4日は、iPhoneの「探す」アプリで簡単に位置が確認できるAppleの紛失防止タグ「AirTag」や、しっかり支えて正しい姿勢をサポートしてくれるAKRACING（エーケーレーシング）の「Wolf ゲーミングチェア」など、人気ア",
-    "url": "https://www.roomie.jp/2024/06/1240081/",
-    "urlToImage": "https://media.loom-app.com/roomie/dist/images/2024/06/f06f3f08ecec0190e5a5dd3618843ebf.jpg?w=1200",
-    "publishedAt": "2024-06-04T06:15:38Z",
-    "content": "Amazon\r\n202464iPhoneAppleAirTagAKRACINGWolf \r\n20246412\r\n12AmazonAudible30\r\nKindle Unlimited20030\r\nAppleAirTag5%\r\niPhoneAppleAirTag5%4,299\r\nAir TagiPhoneiPad\r\nAirTag\r\n4\r\nAKRACING10\r\nAKRacingAKRACINGWo… [+259 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Elespanol.com"
-    },
-    "author": "César Rebolledo",
-    "title": "FREE FIRE MAX | Códigos de hoy martes 4 de junio de 2024 - Recompensas gratis",
-    "description": "<!--cache-->Estos son todos los códigos gratis de Garena Free Fire MAX que podrás canjear hoy, martes 4 de junio de 2024. Consigue recompensas como skins, diamantes y mucho más.<!--aa--->El éxito para móviles Android e iOS, Garena Free Fire MAX, ha recibido n…",
-    "url": "https://vandal.elespanol.com/noticia/1350771786/free-fire-max-codigos-de-hoy-martes-4-de-junio-de-2024-recompensas-gratis/",
-    "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/6/6-2024/4/2024648494580_3.jpg",
-    "publishedAt": "2024-06-04T06:50:00Z",
-    "content": "El éxito para móviles Android e iOS, Garena Free Fire MAX, ha recibido nuevos códigos diarios para hoy martes 4 de junio de 2024. Los jugadores pueden canjear estos códigos para recibir recompensas v… [+2552 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Macitynet.it"
-    },
-    "author": "Pubblicità",
-    "title": "Offerte Amazon 4 giugno fino al 55% su Apple, Hisense, Razer, Arlo, tado, Oral-B, Weber, Vimar",
-    "description": "In sconto computer, TV, telecamere, spazzolini da denti elettrici, dispositivi Smart per la casa, barbecue, prese e molto altro\n- su macitynet.it Offerte Amazon 4 giugno fino al 55% su Apple, Hisense, Razer, Arlo, tado, Oral-B, Weber, Vimar",
-    "url": "https://www.macitynet.it/offerte-amazon-4-giugno-2024/",
-    "urlToImage": "https://www.macitynet.it/wp-content/uploads/2018/04/amazonlista2.jpg",
-    "publishedAt": "2024-06-04T06:59:22Z",
-    "content": "Quelle che trovate elencate in questa pagina sono le offerte su Amazon valide nel momento in cui scriviamo.\r\nSono ancora valide queste offerte:\r\nScadono a breve:\r\nE poi ci sono:\r\nLa lista comprende d… [+8013 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Hwupgrade.it"
-    },
-    "author": null,
-    "title": "Apple MacBook Air 13,6'' del 2022 (chip M2): prezzi super per i modelli con 256 e 512 GB",
-    "description": "Risulta veramente vantaggioso acquistare alcuni prodotti Apple su Amazon: ci si porta a casa lo stesso identico prodotto e si spende meno rispetto allo store Apple! Ecco un'offerta molto interessante su un portatile MacBook Air in particolare.",
-    "url": "https://www.hwupgrade.it/news/apple/apple-macbook-air-13-6-del-2022-chip-m2-prezzi-super-per-i-modelli-con-256-e-512-gb_127715.html",
-    "urlToImage": "https://www.hwupgrade.it/i/n/MacBookAir_720.jpg",
-    "publishedAt": "2024-06-04T07:07:26Z",
-    "content": "MacBook Air 13,6\" 2022 (chip M2) 512GB SSD\r\nMacBook Air 13,6\" 2022 (chip M2) 256GB SSD\r\nMacBook Air 2022 con chip M2, \r\n8GB di RAM e 256GB di SSD, oggi costa solo 989. Ancora più interessante il mod… [+1678 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Macbidouille.com"
-    },
-    "author": "lionel@macbidouille.com (Lionel)",
-    "title": "l'iPad Air M2 perd un coeur GPU",
-    "description": "[MàJ] Apple a réagi officiellement à ce changement et s'est contenté d'indiquer que les tests réalisés et performances communiquées étaient basées sur les nouvelles spécifications.Lors de l'annonce de ses nouveaux iPad, Apple déclarait que le modèle Air M2 av…",
-    "url": "https://macbidouille.com/news/2024/06/04/lipad-air-m2-perd-un-coeur-gpu",
-    "urlToImage": "http://files.macbidouille.com/mbv3/2024/06/03/Hwub2pGacdgK0Kvk.png",
-    "publishedAt": "2024-06-04T06:44:50Z",
-    "content": "[MàJ] Apple a réagi officiellement à ce changement et s'est contenté d'indiquer que les tests réalisés et performances communiquées étaient basées sur les nouvelles spécifications.\r\nLors de l'annonce… [+833 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Macotakara.jp"
-    },
-    "author": "danbo",
-    "title": "Apple、パフォーマンスの改善と不具合を修正した「Apple サポート 5.4」を配布開始",
-    "description": "Apple サポート\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nAppleが、iPhone/iPad/Apple Vision用サポートアプリ「[Apple サポート 5.4](https://apps.apple.com/jp/app/apple-sapoto/id1130498044?mt=8&uo=4&at=10l3IJ)」を、App Storeにて無料配布を開始しています。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n…",
-    "url": "https://www.macotakara.jp/etc/category-60/entry-46840.html",
-    "urlToImage": "https://www.macotakara.jp/archives/001/202401/1189fad16f91acd728632fc7175a71c76cebf15c44ae3e6f17cc44f26e782a72.png",
-    "publishedAt": "2024-06-04T01:54:24Z",
-    "content": "Apple \r\nAppleiPhone/iPad/Apple VisionApple 5.4App Store\r\n5.4"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Cartoon Brew"
-    },
-    "author": "Amid Amidi",
-    "title": "First Look At Skydance Animation’s ‘WondLa’",
-    "description": "The show will premiere on Apple TV+ later this month.",
-    "url": "https://www.cartoonbrew.com/series/first-look-at-skydance-animations-wondla-241374.html",
-    "urlToImage": "https://www.cartoonbrew.com/wp-content/uploads/2024/06/wondla_trailer.jpg",
-    "publishedAt": "2024-06-04T00:10:50Z",
-    "content": "While Skydance Animation ended its feature distribution deal with Apple after just one film (2022s Luck), the company has completed the new series WondLa for Apple TV+. \r\nThe seven-episode first seas… [+1151 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Unwire.hk"
-    },
-    "author": "藍骨",
-    "title": "調查指濫用 AI 生成仇恨音樂情況增　針對少數族群進行攻擊",
-    "description": "生成式 AI 普及固然帶來了不少方便的應用，不過隨着門檻降低，也有越來越多濫用工具的情況。最近一個調查就發現，使用 AI 音樂生成工具攻擊少數族群的情況有增加趨勢。\nThe post 調查指濫用 AI 生成仇恨音樂情況增　針對少數族群進行攻擊 appeared first on 香港 unwire.hk 玩生活．樂科技.",
-    "url": "https://unwire.hk/2024/06/04/people-are-using-ai-music-generators-to-create-hateful-songs/ai/",
-    "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2024/06/download6-694x390.jpg",
-    "publishedAt": "2024-06-04T07:00:14Z",
-    "content": "AI AI \r\n ActiveFence 3 AI AI \r\n AI Udio Suno ActiveFence ActiveFence AI \r\nTechCrunch\r\n:<li> Apple iOS 18 OpenAIGoogle </li> <li>Apple AI 300 AI MM1</li> \r\n :"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Macmagazine.com.br"
-    },
-    "author": "Eduardo Marques",
-    "title": "Leilão da Receita Federal tem AirTags, Apple Watches, AirPods e mais!",
-    "description": "A Receita Federal está organizando um novo leilão, desta vez com lotes distribuídos na cidade de Vitória (ES) — mais especificamente no porto da cidade. São ao todo 34 lotes disponíveis, dentre os quais alguns contêm produtos da Apple — abrangendo itens como …",
-    "url": "https://macmagazine.com.br/post/2024/06/03/leilao-da-receita-federal-tem-airtags-apple-watches-airpods-e-mais/",
-    "urlToImage": "https://macmagazine.com.br/wp-content/uploads/2024/06/03-receita-federal-1260x709.jpg",
-    "publishedAt": "2024-06-04T00:16:36Z",
-    "content": "A Receita Federal está organizando um novo leilão, desta vez com lotes distribuídos na cidade de Vitória (ES) mais especificamente no porto da cidade.\r\nSão ao todo 34 lotes disponíveis, dentre os qua… [+2546 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Iphones.ru"
-    },
-    "author": "Артём Баусов",
-    "title": "Apple заявила, что снижение количества ядер в iPad Air 2024 не влияет на производительность",
-    "description": "Apple заявила, что, несмотря на то, что скорректировала число ядер в iPad Air 2024, предоставленная ранее информация о производительности является корректной. Мы обновляем Apple.com, чтобы исправить количество ядер для M2 iPad Air. Все заявления о производите…",
-    "url": "https://www.iphones.ru/iNotes/apple-zayavila-chto-snizhenie-kolichestva-yader-v-ipad-air-2024-ne-vliyaet-na-proizvoditelnost-06-04-2024",
-    "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2024%2F06%2FIMG_4557.jpeg",
-    "publishedAt": "2024-06-04T05:20:07Z",
-    "content": "Apple , , , iPad Air 2024, .\r\n Apple.com, M2 iPad Air. M2 iPad Air 9- .\r\nApple\r\nApple , M2 « 50% , », « 25% ».\r\n, - KIVI Telegram-!"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Iphones.ru"
-    },
-    "author": "Павел",
-    "title": "Как поставить Алису вместо Siri, чтобы сделать основным голосовым помощником. Всего три простых шага",
-    "description": "Начиная с iOS 16 и новее Apple позволила запускать любого голосового помощника вместо Siri. Осуждать не стану, на функциональность ассистентки в iPhone жалуются почти все, кто использует её не только для запуска таймера. У фишки единственное ограничение, стор…",
-    "url": "https://www.iphones.ru/iNotes/kak-postavit-alisu-vmesto-siri-chtoby-sdelat-osnovnym-golosovym-pomoshchnikom-vsego-tri-prostyh-shaga-06-03-2024",
-    "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2024%2F06%2FCover-2.jpg",
-    "publishedAt": "2024-06-04T07:15:26Z",
-    "content": "iOS 16 Apple Siri. \r\n , iPhone , .\r\n , . , .\r\n, Siri.\r\n. \r\n iPhone iOS 16 . .\r\n - , . \r\nSiri \r\n. , «, Siri»\r\n.\r\n -&gt; Siri -&gt; -&gt; . , Siri «, Siri» .\r\n iOS\r\n. , . .\r\n1. App Store, . .\r\n2. : « »… [+90 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Expansion.com"
-    },
-    "author": "expansion.com",
-    "title": "La Primera de Expansión sobre BBVA, Sabadell, Hacienda, KKR y Cellnex",
-    "description": "La Primera de Expansión les cuenta hoy que BBVA y Sabadell han contratado a grandes bancos de inversión para asesorarse en torno a la Opa. Andrés Stumpf, redactor de finanzas, explica cuáles son son. Leer",
-    "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2024/06/04/665ea42c468aeb5c028b45b7.html",
-    "urlToImage": "https://phantom-expansion.unidadeditorial.es/a2288149fd3a6329a2dd78439f254c9e/f/webp/assets/multimedia/imagenes/2024/06/04/17174790991591.jpg",
-    "publishedAt": "2024-06-04T05:42:15Z",
-    "content": "La Primera de Expansión les cuenta hoy que BBVA y Sabadell han contratado a grandes bancos de inversión para asesorarse en torno a la Opa. Andrés Stumpf, redactor de finanzas, explica cuáles son son.… [+560 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Giga"
-    },
-    "author": "Peter Hryciuk",
-    "title": "Samsung bekommt mit dem Galaxy S25 ein Problem: Das iPhone 16 Pro setzt neue Maßstäbe",
-    "description": "Apple wird schon in wenigen Monaten mit dem iPhone 16 Pro und iPhone 16 Pro Max seine neuen Flaggschiff-Smartphones vorstellen. Konkurrenten wie Samsung müssen sich in Acht nehmen, denn bereits jetzt wurde bekannt, dass Apple mit den kommenden iPhones neue Ma…",
-    "url": "https://www.giga.de/news/samsung-bekommt-mit-dem-galaxy-s25-ein-problem-das-iphone-16-pro-setzt-neue-massstaebe/",
-    "urlToImage": "https://crops.giga.de/91/e6/f9/d84c6e52690675ef7bbd7c6a68_YyAyOTYxeDE1NDcrMjIrMjMCcmUgMTIwMCA2MjcDOTZkYzU5N2ZiYzY=.jpg",
-    "publishedAt": "2024-06-04T07:06:34Z",
-    "content": "Apple wird schon in wenigen Monaten mit dem iPhone 16 Pro und iPhone 16 Pro Max seine neuen Flaggschiff-Smartphones vorstellen. Konkurrenten wie Samsung müssen sich in Acht nehmen, denn bereits jetzt… [+1969 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Queerty.com"
-    },
-    "author": "Editors",
-    "title": "Ricky Martin is soaking wet and showing off his thicc thighs in new photoshoot",
-    "description": "Ricky Martin is raising the heat just in time for Pride Month.",
-    "url": "https://www.queerty.com/ricky-martin-is-soaking-wet-and-showing-off-his-thicc-thighs-in-new-photoshoot-20240603",
-    "urlToImage": "https://adabgmwwup.cloudimg.io/v7/_queerty-prodweb_/2024/06/mixcollage-03-jun-2024-03-46-pm-6616-scaled.jpg?auto=format&auto=compress&fit=crop&gravity=50p,0p&w=1200&h=630&force_format=jpeg&wat=1&wat_gravity=southeast&wat_pad=70",
-    "publishedAt": "2024-06-04T01:00:00Z",
-    "content": "Ricky Martin is raising the heat just in time for Pride Month.\r\nThe 52-year-old pop superstar is being loud, proud and smoking hot for the cover of Elle Mexico’s Pride issue.\r\nThe shoot got so steamy… [+3348 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "AdExchanger"
-    },
-    "author": "AdExchanger",
-    "title": "Can Etsy Survive If China Wins Ecommerce?; Google’s Self-Reported Oopsies",
-    "description": "Here’s today’s AdExchanger.com news round-up… Want it by email? Sign up here. Etsy’s Unwinnable Hand Etsy, the handmade and vintage product marketplace, is in a bind. Chinese manufacturers of super-cheap plastic and clothes (namely, Temu and Shein) are hoover…",
-    "url": "http://www.adexchanger.com/daily-news-roundup/tuesday-04062024/",
-    "urlToImage": "https://live-adexchanger.pantheonsite.io/wp-content/uploads/2024/04/the-curated-marketplace_comic_Kevvo.jpg",
-    "publishedAt": "2024-06-04T04:03:53Z",
-    "content": "Heres todays AdExchanger.com news round-up Want it by email? Sign up here.\r\nEtsys Unwinnable Hand\r\nEtsy, the handmade and vintage product marketplace, is in a bind.\r\nChinese manufacturers of super-ch… [+3992 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "iphone-ticker.de › iPhone-News seit 2007"
-    },
-    "author": "chris",
-    "title": "Beats Solo Buds: Apple-Ohrhörer mit Fokus auf kompaktes Design",
-    "description": "Mit den Beats Solo Buds wird Apple in diesem Monat das Produktportfolio seiner Tochtermarke Beats nach unten hin erweitern. Die neuen kabellosen Ohrhörer werden deutlich günstiger als die restlichen Beats-Modelle zu haben sein, dafür allerdings auf verschiede…",
-    "url": "https://www.iphone-ticker.de/beats-solo-buds-guenstige-apple-ohrhoerer-legen-fokus-auf-kompaktes-design-235759/",
-    "urlToImage": "https://images.iphone-ticker.de/wp-content/uploads/2024/06/beats-solo-buds-feature.jpg",
-    "publishedAt": "2024-06-04T06:45:02Z",
-    "content": "Mit den Beats Solo Buds wird Apple in diesem Monat das Produktportfolio seiner Tochtermarke Beats nach unten hin erweitern. Die neuen kabellosen Ohrhörer werden deutlich günstiger als die restlichen … [+2320 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "iphone-ticker.de › iPhone-News seit 2007"
-    },
-    "author": "chris",
-    "title": "Apples Entwickler-App ist bereit für die WWDC24",
-    "description": "Knapp eine Woche noch, dann startet am Montag die diesjährige Entwicklerkonferenz von Apple. Im Vorfeld der WWDC24 wurde nun noch Apples Entwickler-App für das iPhone, iPad und den Mac aktualisiert und mit letzten Vorbereitungen für die Veranstaltung ausgesta…",
-    "url": "https://www.iphone-ticker.de/apples-entwickler-app-ist-bereit-fuer-die-wwdc24-235747/",
-    "urlToImage": "https://images.iphone-ticker.de/wp-content/uploads/2024/06/apple-feature-wwdc.jpg",
-    "publishedAt": "2024-06-04T05:00:18Z",
-    "content": "Knapp eine Woche noch, dann startet am Montag die diesjährige Entwicklerkonferenz von Apple. Im Vorfeld der WWDC24 wurde nun noch Apples Entwickler-App für das iPhone, iPad und den Mac aktualisiert u… [+1720 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Autocar"
-    },
-    "author": "Felix Page",
-    "title": "Dacia Spring opens for order from £14,995 or £169pcm on PCP",
-    "description": "New budget hatch undercuts the UK's former cheapest EV, the Vauxhall Corsa Electric\n\nDacia has opened orders for the new Spring electric car, launching the compact electric car with a £14,995 price tag and undercutting the UK's next most expensive EV by aroun…",
-    "url": "https://www.autocar.co.uk/car-news/new-cars/dacia-spring-opens-order-%C2%A314995-or-%C2%A3169pcm-pcp",
-    "urlToImage": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/dacia_spring_front_three_quarter_1_2.jpg",
-    "publishedAt": "2024-06-04T07:06:56Z",
-    "content": "Dacia has opened orders for the new Spring electric car, launching the compact electric car with a £14,995 price tag and undercutting the UK's next most expensive EV by around £7000.\r\nThe Dacia Sprin… [+1949 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Génération NT"
-    },
-    "author": "Christian D.",
-    "title": "Snapdragon X Elite : les PC portables ne seront pas les seuls à profiter des puces ARM",
-    "description": "GNT est le portail Hi-Tech français consacré aux nouvelles technologies (internet, logiciel, matériel, mobilité, entreprise) et au jeu vidéo PC et consoles.",
-    "url": "https://www.generation-nt.com/actualites/qualcomm-snapdragon-x-elite-processeur-arm-expansion-2047622",
-    "urlToImage": "https://img.generation-nt.com/qualcomm-snapdragon-x-elite_04B002A301692547.webp",
-    "publishedAt": "2024-06-04T06:10:02Z",
-    "content": "Les processeurs ARM sont présents depuis des années dans les smartphones après avoir éclipsé d'autres alternatives, ce qui a fait perdre en diversité mais gagné en homogénéité.\r\nPeu gourmands en éner… [+2639 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Just Jared"
-    },
-    "author": "Just Jared",
-    "title": "'Argylle' Director Matthew Vaughn Reacts to Bad Reviews, Explains Why He Was Surprised By Them",
-    "description": "Matthew Vaughn is sharing his thoughts on the negative reviews for his movie Argylle and how he was surprised by the response to the film. The movie has a 33% on Rotten Tomatoes, though there’s a much better audience score with a 72% rating. The movie brought…",
-    "url": "https://www.justjared.com/2024/06/04/argylle-director-matthew-vaughn-reacts-to-bad-reviews-explains-why-he-was-surprised-by-them/",
-    "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/06/vaughn-argy.jpg",
-    "publishedAt": "2024-06-04T06:18:07Z",
-    "content": "Matthew Vaughn is sharing his thoughts on the negative reviews for his movie Argylle and how he was surprised by the response to the film.\r\nThe movie has a 33% on Rotten Tomatoes, though there’s a mu… [+1714 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Just Jared"
-    },
-    "author": "Just Jared",
-    "title": "‘Argylle’ Director Matthew Vaughn Reacts to Bad Reviews, Explains Why",
-    "description": "Matthew Vaughn is sharing his thoughts on the negative reviews for his movie Argylle and how he was surprised by the response to the film. The movie has a 33% on Rotten Tomatoes, though there’s a much better audience score with a 72% rating. The movie brought…",
-    "url": "https://www.justjared.com/2024/06/04/argylle-director-matthew-vaughn-reacts-to-bad-reviews-explains-why/",
-    "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/06/vaughn-argy.jpg",
-    "publishedAt": "2024-06-04T06:18:07Z",
-    "content": "Matthew Vaughn is sharing his thoughts on the negative reviews for his movie Argylle and how he was surprised by the response to the film.\r\nThe movie has a 33% on Rotten Tomatoes, though there’s a mu… [+1714 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Tech-wd.com"
-    },
-    "author": "أحمد بكري",
-    "title": "الكشف عن معالجات AMD Ryzen AI 300 و Ryzen 9000 الجديدة",
-    "description": "أعلنت شركة AMD خلال معرض كمبيوتكس 2024 عن إطلاق منصتين جديدتين من معالجاتها: Ryzen AI 300 للأجهزة المحمولة وRyzen 9000 للأجهزة المكتبية. تستهدف المعالجات الجديدة تحسين أداء الذكاء الاصطناعي في الحواسيب المحمولة وتقديم أداء سريع للألعاب على الحواسيب المكتبية. …",
-    "url": "https://www.tech-wd.com/wd/2024/06/04/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%85%d8%b9%d8%a7%d9%84%d8%ac%d8%a7%d8%aa-amd-ryzen-ai-300-%d9%88-ryzen-9000-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9/",
-    "urlToImage": "https://i0.wp.com/www.tech-wd.com/wd/wp-content/uploads/2024/06/AMD-Ryzen.jpg?fit=1200%2C800&ssl=1",
-    "publishedAt": "2024-06-04T07:55:25Z",
-    "content": "AMD 2024 : Ryzen AI 300 Ryzen 9000 .\r\n .\r\n Ryzen AI 300: \r\n Ryzen AI 300 50 (TOPS) AMD .\r\nCopilot Plus 40 16 SSD 256 .\r\n Ryzen AI 300 : Ryzen AI 9 HX 370 Ryzen AI 9 365 .\r\n 5 Radeon 890M 880M RDNA 3.… [+368 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "[Removed]"
-    },
-    "author": null,
-    "title": "[Removed]",
-    "description": "[Removed]",
-    "url": "https://removed.com",
-    "urlToImage": null,
-    "publishedAt": "1970-01-01T00:00:00Z",
-    "content": "[Removed]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "[Removed]"
-    },
-    "author": null,
-    "title": "[Removed]",
-    "description": "[Removed]",
-    "url": "https://removed.com",
-    "urlToImage": null,
-    "publishedAt": "1970-01-01T00:00:00Z",
-    "content": "[Removed]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Dealcatcher.com"
-    },
-    "author": null,
-    "title": "Macy's - 12\" Cast Iron Skillet $21.99",
-    "description": "Macy's has this 12\" Cast Iron Skillet on sale for 68% off. Get it today for $21.99.",
-    "url": "https://www.dealcatcher.com/kitchen-appliances?offer=998243005",
-    "urlToImage": "https://app.dealcatcher.com/bigly/998243005-281.png",
-    "publishedAt": "2024-06-04T00:49:35Z",
-    "content": "Ember Travel Mug 2+, 12 oz, Temperature Control Smart Travel Mug w/ Apple Find My"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Dealcatcher.com"
-    },
-    "author": null,
-    "title": "Macy's - 3.7-Qt. 1300 Watt Nonstick Digital Air Fryer $34.99",
-    "description": "Save 65% on this 3.7-Qt. 1300 Watt Nonstick Digital Air Fryer today at Macy's.",
-    "url": "https://www.dealcatcher.com/kitchen-appliances?offer=998243007",
-    "urlToImage": "https://app.dealcatcher.com/bigly/998243007-424.png",
-    "publishedAt": "2024-06-04T00:53:28Z",
-    "content": "Ember Travel Mug 2+, 12 oz, Temperature Control Smart Travel Mug w/ Apple Find My"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Paul Tan's Automotive News"
-    },
-    "author": "Jonathan Lee",
-    "title": "Proton Apple CarPlay, Android Auto will only come on new model launches – existing cars will not support it",
-    "description": "A lot of you will have been waiting with bated breath for Proton to add the long-overdue Apple CarPlay and Android Auto functionality to its models. Some will have even bought cars recently with the […]\nThe post Proton Apple CarPlay, Android Auto will only co…",
-    "url": "https://paultan.org/2024/06/04/proton-apple-carplay-android-auto-will-only-come-on-new-model-launches-existing-cars-will-not-support-it/",
-    "urlToImage": "https://paultan.org/image/2024/06/Proton-Apple-CarPlay-screenshot-1200x653.png",
-    "publishedAt": "2024-06-04T04:31:52Z",
-    "content": "A lot of you will have been waiting with bated breath for Proton to add the long-overdue Apple CarPlay and Android Auto functionality to its models. Some will have even bought cars recently with the … [+1267 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Paul Tan's Automotive News"
-    },
-    "author": "Hazril Hafiz",
-    "title": "Proton Apple CarPlay, Android Auto hanya akan ada untuk model baru — tiada untuk model semasa",
-    "description": "Pertanyaan sama ada ciri Apple CarPlay dan Android Auto untuk kenderaan Proton kini sudah menjadi soalan standard. Dan, dengan pengenalan Proton X50 RC 2024 hari ini juga situasinya masih sama — belum ada penawaran bagi kedua-dua ciri berkenaan lagi setakat i…",
-    "url": "https://paultan.org/2024/06/04/proton-apple-carplay-android-auto-hanya-akan-disertakan-untuk-model-baru/",
-    "urlToImage": "https://paultan.org/image/2024/06/Proton-Apple-CarPlay-screenshot-850x463_BM-630x343.png",
-    "publishedAt": "2024-06-04T04:42:31Z",
-    "content": "Pertanyaan sama ada ciri Apple CarPlay dan Android Auto untuk kenderaan Proton kini sudah menjadi soalan standard. Dan, dengan pengenalan Proton X50 RC 2024 hari ini juga situasinya masih sama belum … [+1362 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Paul Tan's Automotive News"
-    },
-    "author": "Mick Chan",
-    "title": "2024 Proton X50 RC launched – same looks, better 360 cam and NVH, from RM86k, plus RM7k discount",
-    "description": "Almost four years on from the model’s original debut in 2020 and with more than 110,000 units sold across 12 right-hand-drive markets, the Proton X50 arrives for the 2024 model-year as the X50 RC, or […]\nThe post 2024 Proton X50 RC launched – same looks, bett…",
-    "url": "https://paultan.org/2024/06/04/2024-proton-x50-rc-launched-same-looks-better-360-cam-and-nvh-from-rm86k-plus-rm7k-discount/",
-    "urlToImage": "https://paultan.org/image/2024/06/2024_Proton_X50_RC_Launch-1-1200x801.jpg",
-    "publishedAt": "2024-06-04T02:49:56Z",
-    "content": "Almost four years on from the models original debut in 2020 and with more than 110,000 units sold across 12 right-hand-drive markets, the Proton X50 arrives for the 2024 model-year as the X50 RC, or … [+4617 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "ifun.de › Apple-News seit 2001"
-    },
-    "author": "Chris",
-    "title": "Apple TV+: Wer schaut noch für 6,99 Euro im Monat?",
-    "description": "Eigentlich dachten wir ja, die letzte Preiserhöhung bei Apple TV+ sei längst durch. Apple hat den Monatspreis für das Abonnement von seinem Videodienst für Neukunden bereits vor einem halben Jahr um gut 40 Prozent von 6,99 Euro auf 9,99 Euro erhöht. Für sämtl…",
-    "url": "https://www.ifun.de/apple-tv-wer-schaut-noch-fuer-699-euro-im-monat-233615/",
-    "urlToImage": "https://images.ifun.de/wp-content/uploads/2024/05/apple-tv-plus-feature.jpg",
-    "publishedAt": "2024-06-04T07:39:33Z",
-    "content": "Eigentlich dachten wir ja, die letzte Preiserhöhung bei Apple TV+ sei längst durch. Apple hat den Monatspreis für das Abonnement von seinem Videodienst für Neukunden bereits vor einem halben Jahr um … [+1853 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "ifun.de › Apple-News seit 2001"
-    },
-    "author": "Chris",
-    "title": "Apple zum iPad Air: „Leistungswerte trotz Fehler in den Spezifikationen korrekt“",
-    "description": "Apple hat das neue iPad Air fast einen Monat lang mit falschen Spezifikationen beworben. Am Wochenende wurde bekannt, dass der in dem Anfang Mai vorgestellten Tablet verbaute M2-Prozessor nicht wie ursprünglich angegeben mit zehn, sondern lediglich mit neun G…",
-    "url": "https://www.ifun.de/apple-zum-ipad-air-leistungswerte-trotz-fehler-in-den-spezifikationen-korrekt-233608/",
-    "urlToImage": "https://images.ifun.de/wp-content/uploads/2024/05/ipad-air-2024-feature.jpg",
-    "publishedAt": "2024-06-04T05:54:54Z",
-    "content": "Apple hat das neue iPad Air fast einen Monat lang mit falschen Spezifikationen beworben. Am Wochenende wurde bekannt, dass der in dem Anfang Mai vorgestellten Tablet verbaute M2-Prozessor nicht wie u… [+1879 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "The Daily Dot"
-    },
-    "author": "Nina Hernandez",
-    "title": "‘These flies nowadays are super bold’: Man shares how to get rid of flies in your house. It only takes 3 household ingredients",
-    "description": "Every Southerner knows that summertime means unwanted house guests in the form of flies. \n\n\nA popular TikTok user by the name of DaddyBrownn (@daddybrownn) shared a home remedy in May that is now viral, with 1.7 million views. \n\n\n“If you have flies in your ho…",
-    "url": "https://www.dailydot.com/news/get-rid-of-flies-with-shampoo/",
-    "urlToImage": "https://uploads.dailydot.com/2024/06/get-rid-of-flies.jpg?auto=compress&fm=pjpg",
-    "publishedAt": "2024-06-04T07:00:00Z",
-    "content": "Every Southerner knows that summertime means unwanted house guests in the form of flies. \r\nA popular TikTok user by the name of DaddyBrownn (@daddybrownn) shared a home remedy in May that is now vira… [+4744 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Technews.tw"
-    },
-    "author": "邱 倢芯",
-    "title": "你該開啟的 3+1 個 iPhone、Apple Watch 緊急功能",
-    "description": "現在的 iPhone 與 Apple Watch 當中都包含了多項在危急時刻可能可救人一命的功能，在用戶發生事故、受傷時能夠第一時間就獲得救助，只是這些功能必須要做好事先設定，才能在緊急時刻發揮作用。 iPhone 與 Apple Watch 上的 3+1 個緊急功能，包括了：緊急服務電話、車禍偵測...",
-    "url": "https://technews.tw/2024/06/04/iphone-apple-watch-sos/",
-    "urlToImage": "https://img.technews.tw/wp-content/uploads/2024/03/29114632/apple-iphone1.jpg",
-    "publishedAt": "2024-06-04T06:41:49Z",
-    "content": "iPhone Apple Watch \r\niPhone Apple Watch 3+1 SOS 3 SOS \r\n3 iPhone SOS \r\nSource\r\n 2 SOS 2 \r\nSource\r\niPhone 14 Apple Watch Series 8 Apple Watch SE 2 Apple Watch Ultra \r\nSOS iPhone Apple Watch \r\nSource\r\n… [+101 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Securityaffairs.com"
-    },
-    "author": "Pierluigi Paganini",
-    "title": "Multiple flaws in Cox modems could have impacted millions of devices",
-    "description": "Researcher discovered several authorization bypass vulnerabilities in Cox modems that potentially impacted millions of devices. The security researcher Sam Curry discovered multiple issues in Cox modems that could have been exploited to modify the settings of…",
-    "url": "https://securityaffairs.com/164103/security/cox-modems-flaws.html",
-    "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/06/image-4.png",
-    "publishedAt": "2024-06-04T06:59:50Z",
-    "content": "Multiple flaws in Cox modems could have impacted millions of devices\r\n | \r\nCISA adds Oracle WebLogic Server flaw to its Known Exploited Vulnerabilities catalog\r\n | Spanish police shut down illegal TV… [+73762 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "heise online"
-    },
-    "author": "Sebastian Trepesch",
-    "title": "Tipp: Andere Kreditkarte auf der Apple Watch verwenden",
-    "description": "Wie wird entschieden, welche Kreditkarte sich zuerst auf Apples Computeruhr meldet? Mit unserem Tipp erfahren Sie es.",
-    "url": "https://www.heise.de/ratgeber/Tipp-Andere-Kreditkarte-auf-der-Apple-Watch-verwenden-9746467.html?wt_mc=rss.red.mac-and-i.mac-and-i.atom.beitrag.beitrag",
-    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/0/5/0/2/9/double_tab-112b500780d17807.png",
-    "publishedAt": "2024-06-04T06:00:00Z",
-    "content": "Auf der Watch habe ich zwei Kreditkarten für Apple Pay hinterlegt. Beim Zahlungsvorgang möchte ich meist die Karte nutzen, die im Hintergrund liegt. Lässt sich das ändern?\r\nwatchOS holt bei einem Dop… [+967 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Ixbt.com"
-    },
-    "author": "jin@ixbt.com (Jin)",
-    "title": "iPhone научится делать то, что уже умеют Google Pixel, Samsung Galaxy и Huawei: подробности о функции Generative Playground",
-    "description": "Появились подробности о функции умного редактирования фотографий на iPhone с помощью генеративного искусственного интеллекта, которые появятся в iOS 18. Их сообщил Марк Гурман из Bloomberg  Apple разработала новую функцию удаления объектов, с помощью которой …",
-    "url": "https://www.ixbt.com/news/2024/06/04/iphone-google-pixel-samsung-galaxy-huawei-generative-playground.html",
-    "urlToImage": "https://www.ixbt.com/img/n1/news/2024/5/2/apple-ios-18-photos-ai_large.png",
-    "publishedAt": "2024-06-04T06:44:00Z",
-    "content": "iPhone  , iOS 18. Bloomberg \r\nApple , , , . , Google Pixel, Samsung Galaxy Huawei.\r\nApple « » Generative Playground, . iMessage . , , iOS 18 .\r\n , iOS 18 , , , , , . Siri .\r\n Notes iOS 18 macOS 15 . … [+18 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Ixbt.com"
-    },
-    "author": "jin@ixbt.com (Jin)",
-    "title": "Skoda Rapid в России теперь дешевле 2 млн рублей",
-    "description": "Автомобили Skoda Rapid к июню этого года подешевели в России ниже отметки 2 млн рублей. Стартовая цена закрепились на отметке 1 950 000 рублей. Такой автомобиль получил литые колесные диски, светодиодные фары, люк в крыше, климат-контроль, электростеклоподъем…",
-    "url": "https://www.ixbt.com/news/2024/06/04/skoda-rapid-2.html",
-    "urlToImage": "https://www.ixbt.com/img/n1/news/2024/5/2/photo_2023-07-28_11-45-59_large.jpg",
-    "publishedAt": "2024-06-04T06:50:00Z",
-    "content": "Skoda Rapid 2 . 1 950 000 .\r\n , , , -, , Apple CarPlay, , «-», .\r\n Skoda Rapid, , 1,5- 112-  , .\r\n Skoda Rapid , ."
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Ixbt.com"
-    },
-    "author": "verko@corp.ixbt.com (VerKo)",
-    "title": "В России налаживают серийное производство плазменных двигателей на криптоне",
-    "description": "ОКБ «Факел», входящий в состав «Роскосмос, увеличивает выпуск продукции. С этой целью на предприятии проводится модернизация производства, ремонтируются цеха и закупается новое оборудование. Об этом сообщили пресс-службы Роскосмоса и «Факела».  \r\n Иллюстрация…",
-    "url": "https://www.ixbt.com/news/2024/06/04/v-rossii-nalazhivajut-serijnoe-proizvodstvo-plazmennyh-dvigatelej-na-kriptone.html",
-    "urlToImage": "https://www.ixbt.com/img/n1/news/2024/5/2/2024-06-04%2009.42.21_large.jpg",
-    "publishedAt": "2024-06-04T06:51:00Z",
-    "content": "«», «, . , . - «». \r\n -70. 300 1200 , 9 .\r\n 2024 «» -70 . «». \r\nSkoda Rapid 2 \r\n<ul><li>: -70 «»</li><li> 09:50Skoda Rapid 2 . 1 950 000 </li><li> 09:44iPhone  , Google Pixel, Samsung Galaxy Huawei: … [+1598 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Geeky Gadgets"
-    },
-    "author": "Roland Hutchinson",
-    "title": "How to Stop iOS 17.5.1 Battery Drain",
-    "description": "Battery drain is a common issue faced by iPhone users, especially after updating to a new iOS version like 17.5.1. If you find your device’s battery life deteriorating faster than usual, don’t worry. There are several effective steps you can take to mitigate …",
-    "url": "https://www.geeky-gadgets.com/?p=428963",
-    "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/06/IOS-17.5.1.jpg",
-    "publishedAt": "2024-06-04T07:00:28Z",
-    "content": "Battery drain is a common issue faced by iPhone users, especially after updating to a new iOS version like 17.5.1. If you find your device’s battery life deteriorating faster than usual, don’t worry.… [+5940 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Geeky Gadgets"
-    },
-    "author": "Roland Hutchinson",
-    "title": "10 Awesome M4 iPad Pro Accessories",
-    "description": "The M4 iPad Pro is a powerful and versatile device that can be used for a wide range of tasks, from productivity and creativity to entertainment and communication. To truly maximize the functionality and user experience of your new iPad Pro, it’s essential to…",
-    "url": "https://www.geeky-gadgets.com/?p=428960",
-    "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/06/M4-ipad-Pro.jpg",
-    "publishedAt": "2024-06-04T06:30:10Z",
-    "content": "The M4 iPad Pro is a powerful and versatile device that can be used for a wide range of tasks, from productivity and creativity to entertainment and communication. To truly maximize the functionality… [+6830 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Geeky Gadgets"
-    },
-    "author": "Roland Hutchinson",
-    "title": "iOS 18 to Get New Control Center & More",
-    "description": "iOS 18 is poised to be a substantial update, introducing a plethora of new features and improvements designed to elevate your iPhone experience. From a revamped Settings app and an updated Control Center to extensive AI integration across core apps, this upda…",
-    "url": "https://www.geeky-gadgets.com/?p=428971",
-    "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/06/iOS-18.jpg",
-    "publishedAt": "2024-06-04T07:31:00Z",
-    "content": "iOS 18 is poised to be a substantial update, introducing a plethora of new features and improvements designed to elevate your iPhone experience. From a revamped Settings app and an updated Control Ce… [+4582 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Smzdm.com"
-    },
-    "author": null,
-    "title": "Apple 苹果 Watch Series 9 智能手表GPS款45毫米星光色铝金属表壳 星光S/M 2499元（需用券）",
-    "description": "Apple 苹果 Watch Series 9 智能手表GPS款45毫米星光色铝金属表壳 星光S/M 2499元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
-    "url": "https://www.smzdm.com/p/114910218/",
-    "urlToImage": "https://y.zdmimg.com/202309/14/650267eca211d6284.jpg_d250.jpg",
-    "publishedAt": "2024-06-04T01:07:38Z",
-    "content": "Apple Watch Series 9 Apple S9 56Series 8 60%GPU30%siriAppleiPhone\r\nApple Watch Series 9200013256G\r\nApple Watch Series 9 3618"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Smzdm.com"
-    },
-    "author": null,
-    "title": "Apple 苹果 iPhone 15 Pro 5G手机 128GB 5746元（满减）",
-    "description": "玩家之道全新的钛合金边框，有史以来最轻最窄边框的Pro系列，更好更清晰的深度拍照体验。淘宝精选此款目前活动售价6330元，下单参与百亿补贴立减584元优惠活动，实付低至5746元。",
-    "url": "https://www.smzdm.com/p/114931219/",
-    "urlToImage": "https://y.zdmimg.com/202309/13/6500b104b5a4f4674.png_d250.jpg",
-    "publishedAt": "2024-06-04T02:57:20Z",
-    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Smzdm.com"
-    },
-    "author": null,
-    "title": "Apple 苹果 iPhone 15 5G手机 128GB 4899元（双重优惠）",
-    "description": "玩家之道升级灵动岛设计，主摄升级4800万像素，A16芯片加持~天猫AppleStore旗舰店此款目前活动售价5999元，下页面领取满3580减300元苹果惊喜券，叠加官方立减1100元，实付低至4599元，支持免息优惠，具体需要看看银行卡、花呗能支持多少免息；Apple官方旗舰店，售后...",
-    "url": "https://www.smzdm.com/p/114844659/",
-    "urlToImage": "https://y.zdmimg.com/202309/13/6500af2aeeb047440.png_d250.jpg",
-    "publishedAt": "2024-06-04T00:56:38Z",
-    "content": "iPhone 15 IP68 171g7.8mm\r\niPhone 156.1 OLED XDR 2556×1179460ppi2000100%DCI-P360HziPhone 15\r\n A16 6 CPU5GPU 16 iPhone 14203050%LightningUSB-C\r\niPhone 154800f1.62400120021200f2.4 HDR 5\r\nSOSUSB 2"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Smzdm.com"
-    },
-    "author": null,
-    "title": "Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 7736.76元包邮（双重优惠）",
-    "description": "玩家之道搭载A17 Pro芯片，更新USB-C接口，使用钛合金边框，潜望式长焦镜头~京东此款目前活动售价8449元，领650元优惠券，叠加满200减20元券，叠加plus会员专项立减，实付低至7736.76元，近期好价，感兴趣的值友可以入手。",
-    "url": "https://www.smzdm.com/p/114953377/",
-    "urlToImage": "https://y.zdmimg.com/202310/18/652f78a5437e62917.jpg_d250.jpg",
-    "publishedAt": "2024-06-04T06:23:49Z",
-    "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Smzdm.com"
-    },
-    "author": null,
-    "title": "Apple 苹果 iPhone 15 Pro 5G手机 128GB 蓝色钛金属 5936.51元（需用券）",
-    "description": "京东此款目前活动售价6499元，下单领取满4000减500元优惠券，使用200-20元优惠券，到手实付低至5936.51元，近期好价。叠加优惠券：满4000减500元",
-    "url": "https://www.smzdm.com/p/114905670/",
-    "urlToImage": "https://qny.smzdm.com/202406/03/665d67fa218e93726.jpg_d250.jpg",
-    "publishedAt": "2024-06-04T00:26:01Z",
-    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Smzdm.com"
-    },
-    "author": null,
-    "title": "京东百亿补贴、PLUS会员：Apple 苹果 iPhone 15 Pro Max 5G手机 512GB 黑色钛金属 9541.06元（满减）",
-    "description": "京东此款目前活动售价9589元，下单参与立减47.94元优惠活动，实付低至9541.06元，近期好价。叠加活动：立减47.94元",
-    "url": "https://www.smzdm.com/p/114937067/",
-    "urlToImage": "https://y.zdmimg.com/202309/13/6500b1c00c8db8919.png_d250.jpg",
-    "publishedAt": "2024-06-04T03:57:56Z",
-    "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
-    },
-    {
-    "source": {
-    "id": "breitbart-news",
-    "name": "Breitbart News"
-    },
-    "author": "David Ng, David Ng",
-    "title": "Trump Biopic 'The Apprentice' Director Ali Abbasi Freaks in Profane Tirade over Failure to Find Distributor",
-    "description": "Ali Abbasi -- the director of the Trump biopic \"The Apprentice\" -- engaged in a profane social media tirade Monday, expressing frustration that his movie has so far failed to find a distributor.\nThe post Trump Biopic ‘The Apprentice’ Director Ali Abbasi Freak…",
-    "url": "https://www.breitbart.com/entertainment/2024/06/03/trump-biopic-the-apprentice-director-ali-abbasi-freaks-in-profane-tirade-over-failure-to-find-distributor/",
-    "urlToImage": "https://media.breitbart.com/media/2024/05/TheApprenticecannes1-640x335.jpg",
-    "publishedAt": "2024-06-04T03:02:17Z",
-    "content": "Ali Abbasi — the director of the Trump biopic The Apprentice — engaged in a profane social media tirade Monday, expressing frustration that his movie has so far failed to find a distributor.\r\nRespond… [+2090 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "CinemaBlend"
-    },
-    "author": "Carly Levy",
-    "title": "Sofía Vergara Told Jennifer Aniston The Touching Story About How Her Shift From Comedy To The Morning Show Influenced Her Own Career After Modern Family",
-    "description": "Sofia Vergara revealed to Jennifer Aniston how she inspired her to move forward with her career after Modern Family.",
-    "url": "https://www.cinemablend.com/streaming-news/sofia-vergara-jennifer-aniston-touching-story-shift-comedy-the-morning-show-influenced-own-career-after-modern-family",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/AkszVGu6pjgndb53apJz97-1200-80.jpg",
-    "publishedAt": "2024-06-04T02:05:00Z",
-    "content": "Sofía Vergara became a big-name star through her performance as the loving Gloria on Modern Family, which she was a cast member of for 11 seasons. As for what she's done since then, the fan-favorite … [+3946 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Livedoor.biz"
-    },
-    "author": "buy",
-    "title": "【20時から】楽天スーパーSALE開催！ 新車・家電・旅行 いろいろ半額以下＆ポイント最大46倍",
-    "description": "楽天市場ではきょう4日20時から三ヶ月ぶりに楽天スーパーセールを開催する。月例セールとなってしまった楽天お買い物マラソンとは違い、四半期に一度だけ楽天市場と楽天グループが総力を挙げて新車やブランド品、人気家電、旅行・宿泊まで人気アイテムを半額以下の目玉品とし...",
-    "url": "https://buy.livedoor.biz/archives/51623878j.html",
-    "urlToImage": "https://livedoor.blogimg.jp/buy/imgs/7/7/7781fe7d.jpg",
-    "publishedAt": "2024-06-04T01:49:59Z",
-    "content": "4201146107,000pt2,000pt()51,100()100OFF250OFF\r\n22331010101024Joshin Apple Google Play 610"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Maketecheasier.com"
-    },
-    "author": "Laura Tucker",
-    "title": "Spotify Raises Prices to More than Apple Music",
-    "description": "Why would Spotify br raising its prices to be higher than its main competitor, Apple Music? It seems to feel secure in its positiion.",
-    "url": "https://www.maketecheasier.com/spotify-raises-prices-more-than-apple-music/",
-    "urlToImage": "https://www.maketecheasier.com/assets/uploads/2024/06/spotify-raises-prices-featured.jpg",
-    "publishedAt": "2024-06-04T01:12:22Z",
-    "content": "Spotify seems to be reasonably assured it can outlast any competition. Why else would Spotify be raising its prices to be higher that its main competitor, Apple Music?\r\nThe rivalry between Spotify an… [+3440 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Ozbargain.com.au"
-    },
-    "author": "RichardL",
-    "title": "[eBay Plus] Apple AirPods Pro (2nd generation) with USB-C MagSafe Case MTJV3ZA/A $295.20 Delivered @ MacApp eBay",
-    "description": "Apple AirPods Pro (2nd generation) with USB-C MagSafe Case MTJV3ZA/A $295.20 Delivered @ MacApp eBay",
-    "url": "https://www.ozbargain.com.au/node/849291",
-    "urlToImage": "https://files.ozbargain.com.au/n/91/849291l.jpg?h=3e8fd7b3",
-    "publishedAt": "2024-06-04T00:06:23Z",
-    "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Ushigyu.jp"
-    },
-    "author": "@ushigyu",
-    "title": "【2024年6月】楽天スーパーSALE攻略情報まとめ。半額セール、最大46%ポイントバック、ホテル・温泉宿が半額など",
-    "description": "3ヶ月に1回開催される、楽天スーパーSALE。 今回は、2024年6月4日（火）20:00〜11日（火）1:59まで開催されます。 楽天スーパーSALE 会場はこちら 楽天スーパーSALEでは、数多くの商品が半額になって ...",
-    "url": "https://ushigyu.jp/rakuten-super-sale-202406/",
-    "urlToImage": "https://ushigyu.jp/wp-content/uploads/2024/06/rakuten-super-sale-202406-6.jpg",
-    "publishedAt": "2024-06-04T08:00:15Z",
-    "content": "SALE/h2&gt; 5,000\r\n70,0005,0001,00030,0001,2009,70015,0005003,300\r\nSALE\r\n 50%\r\n50%\r\n300100\r\n46\r\nSALE46\r\n101,00010\r\n19SPU1646\r\n1,000\r\nSALEWeb\r\n1\r\nSALE1,0002,00020%\r\n+9\r\n6/16/119:59RakutenSALE+9\r\nSPU+4… [+155 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "mobiFlip.de"
-    },
-    "author": "Oliver Schwuchow",
-    "title": "Apple iPhone: Der nächste Store für iOS startet diese Woche",
-    "description": "Es hat nach dem Release von iOS 17.4 eine Weile gedauert, doch so langsam aber sicher kommen die Alternativen für den App Store von Apple. Mit Aptoide steht in dieser Woche der nächste Store an, ab dem 6.",
-    "url": "https://www.mobiflip.de/shortnews/apple-iphone-der-naechste-store-fuer-ios-startet-diese-woche/",
-    "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2023/09/apple-ios-17-homescreen-header.jpg",
-    "publishedAt": "2024-06-04T05:10:04Z",
-    "content": "Es hat nach dem Release von iOS 17.4 eine Weile gedauert, doch so langsam aber sicher kommen die Alternativen für den App Store von Apple. Mit Aptoide steht in dieser Woche der nächste Store an, ab d… [+991 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "mobiFlip.de"
-    },
-    "author": "Oliver Schwuchow",
-    "title": "Microsoft trennt sich von der „gemischten Realität“",
-    "description": "Das Thema „Mixed Reality“ war einst ein wichtiger Punkt für Microsoft, die gerne mit der HoloLens geworben haben. Und man könnte meinen, dass der Bereich jetzt mehr Aufmerksamkeit bekommt, da […]",
-    "url": "https://www.mobiflip.de/shortnews/microsoft-trennt-sich-von-der-gemischten-realitaet/",
-    "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2021/05/microsoft-hololens-header.jpg",
-    "publishedAt": "2024-06-04T03:50:09Z",
-    "content": "Das Thema Mixed Reality war einst ein wichtiger Punkt für Microsoft, die gerne mit der HoloLens geworben haben. Und man könnte meinen, dass der Bereich jetzt mehr Aufmerksamkeit bekommt, da andere Ma… [+713 chars]"
-    }
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ashutosh Joshi and Alex Gabriel Simon",
+            "title": "India Stocks Hit Record, Rupee Gains as Polls Predict Modi Win (Bloomberg) - Yahoo Finance",
+            "description": "(Bloomberg) -- India’s stocks surged to a record, while the rupee and sovereign bonds climbed after exit polls signaled an emphatic victory for Prime...",
+            "url": "https://finance.yahoo.com/news/india-stock-futures-rally-polls-010509234.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/d3Pn.FGoIVMYnyg5dpiYUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/04f2d049bbb158617b3133167955b45c",
+            "publishedAt": "2024-06-03T07:24:52Z",
+            "content": "(Bloomberg) -- Indias stocks surged to a record, while the rupee and sovereign bonds climbed after exit polls signaled an emphatic victory for Prime Minister Narendra Modis ruling party.\r\nMost Read f… [+3701 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Latest Oil Market News and Analysis for June 3 - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2024-06-02/latest-oil-market-news-and-analysis-for-june-3",
+            "urlToImage": null,
+            "publishedAt": "2024-06-03T06:25:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ambcrypto.com"
+            },
+            "author": "Jai Hamid",
+            "title": "Dogecoin’s price recovery – Identifying the real odds of that happening - AMBCrypto News",
+            "description": "The world's largest memecoin isn't having the world's best quarter in 2024. What's next?",
+            "url": "https://ambcrypto.com/dogecoins-price-recovery-identifying-the-real-odds-of-that-happening/",
+            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/06/News-Articles-FI-Editors-1-1000x600.webp",
+            "publishedAt": "2024-06-03T05:03:53Z",
+            "content": "<ul><li>Dogecoin still volatile, with most holders in profit despite a bearish long-term trend</li><li>DOGE’s market behavior didn’t seem to have any clear directional movement</li></ul>Dogecoin (DOG… [+2605 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Shein set to file for £50bn UK flotation, according to reports - BBC.com",
+            "description": "The fast-fashion firm has been linked to unethical practices, including claims of forced labour.",
+            "url": "https://www.bbc.com/news/articles/c9770yz274go",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/88be/live/570f9bc0-216c-11ef-91b2-41bfe5190ad1.jpg",
+            "publishedAt": "2024-06-03T03:17:44Z",
+            "content": "Peter Hoskins,Business reporter\r\nOnline fast fashion firm Shein is planning to file paperwork for a potential London share listing as soon as this week, according to reports.\r\nAn initial public offer… [+2992 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "All About Elena Zhukova, 5th Wife Of Media Mogul Rupert Murdoch - NDTV",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https://www.ndtv.com",
+            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+            "publishedAt": "2024-06-03T02:39:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Cointelegraph",
+            "title": "GameStop rallies overnight as Roaring Kitty reveals $180M GME position - Cointelegraph",
+            "description": null,
+            "url": "https://cointelegraph.com/news/gamestop-gme-memestock-surges-keith-gill-roaring-kitty-discloses-shares",
+            "urlToImage": null,
+            "publishedAt": "2024-06-03T02:37:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Dade Hayes",
+            "title": "As Paramount Global Preps For Shareholder Meeting And Town Hall, Details Of Revised Skydance Offer Surface - Deadline",
+            "description": "As Paramount Global nears its annual shareholder meeting and an employee town hall, details are emerging about Skydance Media's latest merger offer.",
+            "url": "http://deadline.com/2024/06/paramount-skydance-merger-shareholder-meeting-town-hall-shari-redstone-1235957412/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/05/Shari-Redstone.jpg?w=1024",
+            "publishedAt": "2024-06-03T02:22:00Z",
+            "content": "As Paramount Global approaches Tuesday’s annual shareholder meeting and a high-stakes town hall for employees the following day, new details are emerging about Skydance Media‘s latest acquisition off… [+5902 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Paul Krugman Says China Unwilling to Support Consumer Demand - Bloomberg",
+            "description": "China’s leaders are “bizarrely unwilling” to use more government spending to support consumer demand instead of production, according to Nobel laureate in economics Paul Krugman.",
+            "url": "https://www.bloomberg.com/news/articles/2024-06-03/krugman-says-china-is-bizarrely-unwilling-to-boost-demand",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in270BFoqVlA/v1/1200x801.jpg",
+            "publishedAt": "2024-06-03T01:51:00Z",
+            "content": "Chinas leaders are bizarrely unwilling to use more government spending to support consumer demand instead of production, according to Nobel laureate in economics Paul Krugman. \r\nThe fact that we seem… [+246 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Asa Fitch",
+            "title": "The U.S. Gave Chip Makers Billions. Now Comes the Hard Part. - The Wall Street Journal",
+            "description": "Chips Act’s early stages have been challenged by rivals overseas and the sheer expense of making chips",
+            "url": "https://www.wsj.com/tech/chips-act-funding-semiconductor-investments-us-22cc1ea8",
+            "urlToImage": "https://images.wsj.net/im-965431/social",
+            "publishedAt": "2024-06-03T01:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "James Powel, Gabe Hauari",
+            "title": "Cucumbers recalled in 14 states over Salmonella concerns - USA TODAY",
+            "description": "The FDA announced a recall of potentially contaminated cucumbers Saturday. See the 14 states they were sent to.",
+            "url": "https://www.usatoday.com/story/money/food/2024/06/02/cucumbers-recalled-in-14-states-over-salmonella-concerns/73950674007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/06/02/USAT/73950844007-2152806345.jpg?crop=7416,4172,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2024-06-03T00:08:08Z",
+            "content": "The Food and Drug Administration on Saturday announced a recall of cucumbers potentially contaminated with Salmonella.\r\nFresh Start Produce Sales Inc. of Delray, Florida is recalling cucumbers that w… [+1753 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Craig Stirling, Bloomberg",
+            "title": "We're about to get central bank rate cuts soon—but not from the Federal Reserve: Here's who is expected to ease in the coming week - Fortune",
+            "description": "ECB policymakers led by President Christine Lagarde have insisted they’re comfortable plowing a separate furrow from the Federal Reserve, even if that risks a weaker currency that could stoke inflation.",
+            "url": "https://fortune.com/2024/06/02/central-bank-rate-monetary-policy-easing-ecb-canada-denmark-federal-reserve/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-2153809133-e1717368571166.jpg?resize=1200,600",
+            "publishedAt": "2024-06-02T23:02:00Z",
+            "content": "The European Central Bank could open the door to a weaker euro on Thursday as its first interest-rate cut of the cycle puts the region on a divergent policy path from the US.With a quarter-point redu… [+7678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jesse Pound",
+            "title": "Stock futures are little changed ahead of first trading day of June: Live updates - CNBC",
+            "description": "Wall Street is coming off its sixth positive month in seven.",
+            "url": "https://www.cnbc.com/2024/06/02/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107419926-1716565091613-gettyimages-2154456331-ms1_1753_u9dke0sp.jpeg?v=1717363641&w=1920&h=1080",
+            "publishedAt": "2024-06-02T22:31:06Z",
+            "content": "Stock futures were calm on Sunday evening ahead of the first trading day in June.\r\nFutures for the Dow Jones Industrial Average ticked up 25 points, or less than 0.1%. S&amp;P 500 futures were flat, … [+1023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tipranks.com"
+            },
+            "author": "Marty Shtrubel",
+            "title": "‘AMD Is a Big Threat,’ Says Investor About Nvidia Stock - TipRanks",
+            "description": "Nvidia (NASDAQ:NVDA) has been the talk of the stock market over the past year and a half. With a series of blockbuster earnings reports fueled by the insatiable dem...",
+            "url": "https://www.tipranks.com/news/amd-is-a-big-threat-says-investor-about-nvidia-stock",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/01/NVDA-AMD-750x406.jpg",
+            "publishedAt": "2024-06-02T22:29:53Z",
+            "content": "Nvidia (NASDAQ:NVDA) has been the talk of the stock market over the past year and a half. With a series of blockbuster earnings reports fueled by the insatiable demand for its top-tier AI chips, Nvid… [+2849 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Lauren Thomas",
+            "title": "Exclusive | Waste Management Near Deal to Buy Stericycle - The Wall Street Journal",
+            "description": "Deal would value medical-waste-management company at about $7 billion including debt",
+            "url": "https://www.wsj.com/finance/waste-management-near-deal-to-buy-stericycle-ed064421",
+            "urlToImage": "https://images.wsj.net/im-966244/social",
+            "publishedAt": "2024-06-02T22:27:00Z",
+            "content": "Waste Management is nearing a deal to buy medical-waste-disposal company StericycleSRCL4.54%increase; green up pointing triangle\r\nfor roughly $7 billion including debt. \r\nThe acquisition of Bannockbu… [+299 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OilPrice.com"
+            },
+            "author": "Irina Slav",
+            "title": "BHP-Anglo Debacle Shines Spotlight on Copper Scarcity - OilPrice.com",
+            "description": "There are growing concerns about copper scarcity, rising prices, and supply challenges, with AI and data centers emerging as new sources of demand.",
+            "url": "https://oilprice.com/Metals/Commodities/BHP-Anglo-Debacle-Shines-Spotlight-on-Copper-Scarcity.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-05-31_zmahieodww.jpg",
+            "publishedAt": "2024-06-02T22:00:00Z",
+            "content": "Soaring demand for copper in…\r\nA recent Reuters report quoted market analysts…\r\nCommodity prices have reached their…\r\nBy Irina Slav - Jun 02, 2024, 5:00 PM CDT\r\nThis week saw BHPs last attempt to acq… [+4912 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jason Ma",
+            "title": "Housing market outlook: Home prices could start falling this summer - Fortune",
+            "description": "\"The housing market is really the first domino to fall on what we think is going to be a slower growth story down the road.\"",
+            "url": "https://fortune.com/2024/06/02/housing-market-outlook-home-prices-supply-demand-imbalance-economic-growth-warning/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1188188119-e1717360833851.jpg?resize=1200,600",
+            "publishedAt": "2024-06-02T21:44:00Z",
+            "content": "More homes on languishing on the market without any buyers, setting up prices to start falling as soon as this summer, according to Brian Nick, senior investment strategist at Macro Institute.In fact… [+2346 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "USA TODAY",
+            "title": "United Airlines passengers fell ill during flight after a cruise - USA TODAY",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS90cmF2ZWwvYWlybGluZS1uZXdzLzIwMjQvMDYvMDIvdW5pdGVkLWFpcmxpbmVzLXBhc3NlbmdlcnMtaWxsLXZhbmNvdXZlci1ob3VzdG9uLzczOTQ5MDkzMDA3L9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-02T20:12:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": "Harriet Agnew, Stephen Morris, Tabby Kinder",
+            "title": "Pivotal Tesla retail investors at risk of missing AGM vote - Financial Times",
+            "description": "EV maker faces tight vote over Musk pay and reincorporation but investment platforms fail to put cross-border systems in place",
+            "url": "https://www.ft.com/content/bf90e2ee-3e01-45c0-832a-a16b7e3e7f0f",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F90759b79-9864-45fc-9d06-a0b477b0dc04.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2024-06-02T20:00:52Z",
+            "content": "Tens of thousands of Teslas international retail shareholders with around $17bn of stock may be unable to vote at its annual meeting because investment platforms have failed to put adequate cross-bor… [+4983 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jason Ma",
+            "title": "Elon Musk reportedly cussed out a JPMorgan exec years ago, but his cold war with Jamie Dimon may be starting to thaw - Fortune",
+            "description": "Any improvement in their relationship could clear the way for the bank to do more business with billionaire Musk or his constellation of companies.",
+            "url": "https://fortune.com/2024/06/02/elon-musk-jamie-dimon-feud-jpmorgan-tesla-spacex/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1851965053-e1717352663218.jpg?resize=1200,600",
+            "publishedAt": "2024-06-02T19:24:00Z",
+            "content": "Tesla CEO Elon Musk and JPMorgan CEO Jamie Dimon have not been on good terms in recent years, but that seems to be changing, according to the Wall Street Journal.Any improvement in their relationship… [+2071 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Ye Xie, Rich Miller",
+            "title": "A Trump Win Would Threaten Fed Independence, Move Bonds: Poll - Bloomberg",
+            "description": "Survey respondents expect a move in Treasury yields if Trump secures a second term",
+            "url": "https://www.bloomberg.com/news/articles/2024-06-02/a-trump-win-would-threaten-fed-independence-move-bonds-poll",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP.HVFd1EY9g/v1/1200x790.jpg",
+            "publishedAt": "2024-06-02T19:00:18Z",
+            "content": "The Federal Reserve will face a significant risk of losing its independence to ramped-up political interference if Donald Trump is elected president again, according to the latest Bloomberg Markets L… [+276 chars]"
+        }
     ]
-    }
-    Get the current top headlines for a country or category
-    News API is great as a data source for news tickers and other applications where you want to show your users live headlines. We track headlines in 7 categories across over 50 countries, and at over a hundred top publications and blogs, in near real time.
-    
-    Let's make a request to get live top headlines in the US right now. We'll use the /top-headlines endpoint for this.
-    
-    This returns a JSON object with the results in an array we can iterate over.
-    
-    For more information about the /top-headlines endpoint, including valid parameters for focusing on specific countries and categories, see the Top Headlines endpoint reference.
-    
-    Definition
-    GET https://newsapi.org/v2
+}
