@@ -7,11 +7,11 @@ export class NewsItem extends Component {
     return (
       <div className='my-3'>
      <div className="card" style={{"width": "18rem"}}>
-  <img src={imageUrl} className="card-img-top" alt="..."/>
+  <img src={!imageUrl? "https://www.hindustantimes.com/ht-img/img/2024/06/03/1600x900/PM-Narendra-Modi-in-Delhi-on-Wednesday---Vipin-Kum_1716441540763_1717405884111.jpg" : imageUrl} className="card-img-top" alt="..."/>
   <div className="card-body">
     <h5 className="card-title">{title}</h5>
     <p className="card-text">{description}</p>
-    <a href={newsUrl} target='_blank' className="btn btn-sm btn-primary">Read more</a>
+    <a href={newsUrl} target='_blank' className="btn btn-sm btn-dark">Read more</a>
   </div>
 </div>
       </div>
