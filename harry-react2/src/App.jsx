@@ -6,6 +6,7 @@ import { Route, Routes } from 'react-router-dom'
 export default class App extends Component {
 
   render() {
+    const pageSize = 5;
     const country = "in"; // Define the country code
     const categories = ["general", "business", "entertainment", "science", "sports", "technology", "health"];
 
