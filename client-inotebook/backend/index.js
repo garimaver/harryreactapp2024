@@ -1,10 +1,17 @@
-const express = require("express");
-const app = 
-const PORT = 4001;
-app.get("/", (req, res)=> {
-    res.send(200)
-})
+const connectToMongo = require("./db");
+const express = require('express')
+const app = express()
+const port = 4000
 
-app.listen(PORT, () => {
-    console.log(`server is running on port ${PORT} `)
+app.use(express.json())
+
+connectToMongo();
+
+
+//routes
+app.use('/api/auth', require('./routes/auth'));
+app.use('/api/notes', require('./routes/notes'));
+
+app.listen(port, () => {
+  console.log(`Example app listening on port ${port}`)
 })
