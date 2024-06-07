@@ -6,7 +6,7 @@ const router = express.Router();
 // Middleware to parse JSON bodies
 router.use(express.json());
 
-router.post('/', [
+router.post('/createuser', [
     body('name', 'Enter a valid name').isLength({ min: 3 }),
     body('email', 'Enter a valid email').isEmail(),
     body('password', 'Password must be at least 5 characters').isLength({ min: 5 }),
