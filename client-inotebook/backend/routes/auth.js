@@ -15,6 +15,7 @@ router.post('/createuser', [
     if (!errors.isEmpty()) {
         return res.status(400).json({ errors: errors.array() });
     }
+    try {
    let user = await User.findOne({email : req.body.email})
   
    if(user){
@@ -25,11 +26,11 @@ router.post('/createuser', [
         password: req.body.password,
         email: req.body.email,
    })
-  //.then(user => res.json(user)).catch(err => {
-    //     console.log(err);
-    //     return res.status(500).json({ error: 'Internal Server Error' , message : err.message});
-    // });
     res.json({user})
+} catch (error) {
+        console.error(error.message);
+        res.status(500).send("Some Error occured")
+}
 });
 
 module.exports = router;
