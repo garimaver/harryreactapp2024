@@ -15,14 +15,19 @@ router.post('/createuser', [
     if (!errors.isEmpty()) {
         return res.status(400).json({ errors: errors.array() });
     }
-   let user = await  User.create({
+   let user = User.findOne({email : req.body.email})
+   if(user){
+    return res.status(400).json({error: "sorry a user with this email already exists"})
+   }
+   user = await User.create({
         name: req.body.name,
         password: req.body.password,
         email: req.body.email,
-    }).then(user => res.json(user)).catch(err => {
-        console.log(err);
-        return res.status(500).json({ error: 'Internal Server Error' , message : err.message});
-    });
+   })
+  //.then(user => res.json(user)).catch(err => {
+    //     console.log(err);
+    //     return res.status(500).json({ error: 'Internal Server Error' , message : err.message});
+    // });
 });
 
 module.exports = router;
