@@ -21,9 +21,12 @@ router.post('/createuser', [
    if(user){
     return res.status(400).json({error: "sorry a user with this email already exists"})
    }
+   const salt = await bcrypt.gensalt(10);
+   const secPass = await bcrypt.hash(req.body.password, salt);
+
    user = await User.create({
         name: req.body.name,
-        password: req.body.password,
+        password: secPass,
         email: req.body.email,
    })
     res.json({user})
