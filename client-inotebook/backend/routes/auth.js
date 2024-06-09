@@ -29,7 +29,7 @@ router.post('/createuser', [
     //     console.log(err);
     //     return res.status(500).json({ error: 'Internal Server Error' , message : err.message});
     // });
-    res.json({"Nice" : "nice"})
+    res.json({user})
 });
 
 module.exports = router;
