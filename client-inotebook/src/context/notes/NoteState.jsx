@@ -87,8 +87,24 @@ setNotes(notes.concat(note))
      setNotes(newNotes)
     }
       //edit a note
-  const editNote = (id, title, description, tag) => {
-    
+  const editNote = async (id, title, description, tag) => {
+    //api call
+    const response = await fetch(url,{
+      method : 'POST',
+      headers: {
+        'Content-Type' : 'application/json'
+      },
+      body: JSON.stringify(data)
+    })
+    return response.json()
+    for (let index = 0; index < notes.length; index++) {
+      const element = notes[index];
+      if(element._id === id){
+        element.title = title;
+        element.description = description;
+        element.tag = tag;
+      }
+    }
   }
   return (
     <noteContext.Provider value={{notes, addNote, deleteNote, editNote}}>
