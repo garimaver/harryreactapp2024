@@ -63,4 +63,27 @@ router.put('/updatenotes/:id', fetchuser, validateObjectId, async (req, res) => 
     }
 });
 
+router.delete('/deletenotes/:id', fetchuser, validateObjectId, async (req, res) => {
+    const { title, description, tag } = req.body;
+
+    
+
+    try {
+        // Find the note to be updated and update it
+        let note = await Note.findById(req.params.id);
+        if (!note) { return res.status(404).send("Not found"); }
+
+        // Allow update only if user owns this note
+        if (note.user.toString() !== req.user.id) {
+            return res.status(401).send("Not Allowed");
+        }
+
+        note = await Note.findByIdAndDelete(req.params.id);
+        res.json({ "success " : "note has been deleted" , note : note});
+    } catch (error) {
+        console.error(error.message);
+        res.status(500).send("Internal server error");
+    }
+});
+
 module.exports = router;
