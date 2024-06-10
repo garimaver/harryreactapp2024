@@ -72,20 +72,22 @@ console.log("adding a new note")
 const note = {
   "_id": "66656ae1a61da0b73967472615",
   "user": "66655cd8b8b4efd3c95414748",
-  "title": "A day",
-  "description": "a day in my live if good",
-  "tag": "personal",
+  "title": title,
+  "description": description,
+  "tag": tag,
   "date": "2024-06-09T08:42:09.706Z",
   "__v": 0
 };
-setNotes(notes.push(note))
+setNotes(notes.concat(note))
   }
     //delete a note
-    const deleteNote = () => {
-    
+    const deleteNote = (id) => {
+     console.log("Deleting the note with id" + id);
+    const newNotes = notes.filter((note) => {return note._id !== id})
+     setNotes(newNotes)
     }
       //edit a note
-  const editNote = () => {
+  const editNote = (id, title, description, tag) => {
     
   }
   return (
