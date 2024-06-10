@@ -1,11 +1,11 @@
 import React from 'react';
-import noteContext from "./noteContext"
+import NoteContext from "./noteContext"
 
 const NoteState = (props) => {
   return (
-    <NoteState.provider>
+    <NoteContext.Provider>
       {props.children}
-    </NoteState.provider>
+    </NoteContext.Provider>
   )
 }
 
