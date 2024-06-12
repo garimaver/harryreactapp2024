@@ -43,11 +43,11 @@ const Signup = () => {
   </div>
   <div className="mb-3">
     <label htmlFor="password" className='form-label'>Password</label>
-    <input type="password" className="form-control" onChange={onChange} id="password"  name="password" placeholder="Password"/>
+    <input type="password" className="form-control" onChange={onChange} id="password"  name="password" placeholder="Password" minLength={10} required/>
   </div>
   <div className="mb-3">
     <label htmlFor="cpassword" className='form-label'>Confirm Password</label>
-    <input type="password" className="form-control" id="cpassword" onChange={onChange} name="cpassword" placeholder="Confirm Password"/>
+    <input type="password" className="form-control" id="cpassword" onChange={onChange} name="cpassword" placeholder="Confirm Password" minLength={10}  required/>
   </div>
   <button type="submit" className="btn btn-primary" >Submit</button>
 </form>
