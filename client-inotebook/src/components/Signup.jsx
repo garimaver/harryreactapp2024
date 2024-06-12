@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 
 const Signup = () => {
 
-    const [credentials, setCredentials] = useState({ email: "", password: "" });
+    const [credentials, setCredentials] = useState({name:"" ,email: "", password: "" , cpassword: ""});
     let navigate = useNavigate();
   
     const handleSubmit = async (e) => {
@@ -31,7 +31,7 @@ const Signup = () => {
     };
   return (
     <div>
-       <form >
+       <form onSubmit={handleSubmit}>
        <div className="mb-3">
     <label htmlFor="name" className='form-label'>Name</label>
     <input type="name" name='name' className="form-control" onChange={onChange} id="name" aria-describedby="emailHelp"  placeholder="Enter Your Name"/>
